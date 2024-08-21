@@ -13,7 +13,7 @@ if(!empty($socialRec)) {
                     $resocl.='
                             <div class="topbar-dropdown social-block">
                                 <ul class="list-inline">
-                                    <li><a class="title"  href="'.$socialRow->linksrc.'" target="_blank"><i class="fa '.$socialRow->image.'" style=" font-size: 24px; "></i></a>
+                                    <li><a class="title"  href="'.$socialRow->linksrc.'" target="_blank"><i class="fa '.$socialRow->image.'"></i></a>
                                     </li>
                                 </ul>
                             </div>

@@ -1,8 +1,8 @@
 RewriteOptions inherit
 RewriteEngine On
 
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # AddType 'text/html; charset=UTF-8' html
 # AddHandler application/x-httpd-php56 .php
