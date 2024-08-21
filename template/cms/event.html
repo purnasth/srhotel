@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   	<!-- Meta tags -->
+    <jcms:site:seotitle/>
+    <!-- Fevicon -->
+    <jcms:site:fevicon/>
+     
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.default.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="assets/vegas/vegas.min.css">
+    
+     <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css' integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+	
+	<!--<link rel="stylesheet" href="assets/css/rtl.css">-->
+    <!-- google fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800">	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Domine:400,700">
+	  <link rel="stylesheet" href='//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css'>
+</head>
+
+<body>
+    <div id="header-background-about">
+        <div id="topbar" class="topbar-transparent">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 flexbar">
+                    <!-- header location   -->  
+                    <jcms:module:header-location/>
+                    <!-- header location end   -->
+
+                    <!-- header social link   -->     
+                    <jcms:module:socilaLinktop/>
+                    <!-- header social link end   --> 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <header id="header" class="header-transparent">
+            <div id="header-wrap">
+                <div class="container">
+                    <nav id="hmenu">
+                        <div id="head-mobile"></div>
+                        <div class="button"></div>
+                        <!-- <jcms:module:menu/> -->
+                        <jcms:module:menu/>
+    
+                        <div id="logo">
+                            <jcms:site:logo/>
+                        </div>
+    
+                        <jcms:module:menu-right/>
+                    </nav>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <div class="intro inner-intro" style="background: url(../../images/galler.jpg) no-repeat scroll bottom center/cover !important;">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="page-title text-right">
+                    <h1 class="margin-auto">Event/Room Enquiry</h1>
+                    <p>The SR Hotel </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section id="aboutus" class="content">
+        <div class="container">
+            <h3 style="font-weight: 600;">Events/Rooms Form</h3>
+            <hr>
+            <jcms:module:event-form/>
+              <form action="conference_mail.php" id="event_form" method="post" novalidate="novalidate">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <h6>
+                                                    Personal Information</h6>
+                                                <div class="form-group">
+                                                    <input autocomplete="off" class="form-control" id="fullname" name="fullname" placeholder="Full Name" type="text" /></div>
+                                                <div class="form-group">
+                                                    <input autocomplete="off" class="form-control" id="address" name="address" placeholder="Address" type="text" /></div>
+                                                <div class="form-group">
+                                                    <input autocomplete="off" class="form-control" id="tel" name="tel" placeholder="Phone Number" type="text" /></div>
+                                                <div class="form-group">
+                                                    <input autocomplete="off" class="form-control" id="mailaddress" name="mailaddress" placeholder="Email" type="email" /></div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <h6>
+                                                    Event/Room Information</h6>
+                                                <div class="form-group">
+                                                    <input autocomplete="off" class="form-control" id="conference_event" name="conference_event" placeholder="Event/Room Title" type="text" />
+                                                </div>
+                                                <div class="form-row row">
+                                                    <div class="form-group col-md-6">
+                                                        <input autocomplete="off" class="form-control" id="day" name="day" placeholder="Day" type="date" />
+                                                        </div>
+                                                    <div class="form-group col-md-6">
+                                                        <input autocomplete="off" class="form-control" id="paxno" name="paxno" placeholder="No of pax" type="text" />
+                                                        </div>
+                                                  </div>      
+                                                
+                                                <div class="form-group">
+                                                    <textarea class="form-control" id="comment" name="comment" placeholder="Message" rows="4"></textarea>
+                                                    </div>
+                                            
+                                            <div id="msg"></div>
+                                            <div class="row">
+                                                
+                                            <div id="g-recaptcha-response" class="g-recaptcha col-md-6" data-sitekey="6Le9mowpAAAAAAub2CSBta7N2r9utzlntWRUQpKr"></div>
+                                                <div class="col-md-4 col-md-offset-1">
+                                                <button class="btn res-btn" style="background: #7b2b2e;color: #fff;" id="submit" type="submit" >Submit</button></div>
+                                            </div>
+                                            </div>
+                                            </div>
+                                            
+                                    </form>
+        </div>
+    </section>
+
+    <jcms:module:subscribe_form/>
+    
+    <!-- start footer --> 
+    <footer>
+        <section class="container">
+            <section class="row">
+                <div class="widget get-in-touch col-md-4 col-sm-6">
+                    <h4 class="widget_title">Address</h4>
+                    <!--<jcms:site:footerlogo/>-->
+                    <jcms:module:location:footer-location/>
+                    <jcms:module:footer-locati on/>
+                 
+                </div>
+                
+                <div class="widget widget-links col-md-2 col-sm-6">
+                    <h4 class="widget_title">Explore</h4>
+                    <div class="widget-contact-list">
+                        <jcms:module:exploremenu/>
+                    </div>
+                </div>
+                
+                <div class="widget widget-links col-md-3 col-sm-6">
+                    <h4 class="widget_title">Quick Links</h4>
+                    <div class="widget-contact-list">
+                        <jcms:module:quickmenu/>
+                    </div>
+                </div>
+                
+                <div class="widget get-in-touch col-md-3 col-sm-6">
+                    <h4 class="widget_title">Get In Touch</h4>
+                    <div class="widget-contact-list">
+                           <jcms:module:socialbotttom/>
+                    </div>
+                </div>
+            </section>
+        </section>
+        
+        <section class="container clearfix footer-b-pad">
+            <div class="footer-copy">
+                <jcms:site:copyright/>
+            </div>
+        </section>
+    </footer>
+    <!-- end footer -->
+
+    <a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up"></i></a>
+
+    <script src="assets/js/jquery-2.1.1.js"></script>
+    <script src="assets/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/style.js"></script>
+    <script src="assets/js/validator.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="assets/magnific-popup/jquery.magnific-popup.js"></script>
+    <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/magnific-popup/swiper-magnific-popup.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js'></script>
+    <script async src="../static.addtoany.com/menu/page.js"></script>
+     <script type="text/javascript">
+      var base_url = jQuery('base').attr('url');
+      jQuery(document).ready(function() {
+        jQuery('#event_form').validate({
+          errorElement: 'span',
+          errorClass: 'validate-has-error',
+          rules: {
+            fullname: { required: true },
+            address:{required: true },
+            tel: { required: true },
+            mailaddress: { required: true, email: true },
+            
+            city:{required: true },
+            paxno:{required: true },
+            country:{required: true },
+            conference_event:{required: true },
+            day:{required: true },
+            paxno:{required: true },
+            comment: { required: true }
+          },
+
+          messages:{  
+            fullname: {required: "Enter your Fullname"},       
+            address: { required: "Enter your Address"},
+            tel: { required: "Enter your Phone No."},                
+            paxno: { required: "select No of Pax."},                               
+            mailaddress: { 
+              required: "Enter your email address",
+              email: "Enter a VALID email address"
+            },
+            conference_event: { required: "Enter The Event Title"},
+            day: { required: "Enter the Day"},
+            paxno: { required: "Enter The Pax No", }, 
+            comment: { required: "Enter your Message" }
+          },      
+          
+          submitHandler:function(form){  
+              var recaptcha = $("#g-recaptcha-response").val();
+                if (recaptcha === "") {
+                    event.preventDefault();
+                    alert("Please check the recaptcha");
+                    return false;
+                }
+            var Frmval = jQuery("form#event_form").serialize();  
+            jQuery("button.res-btn").attr("disabled","true").text('Processing...');
+            jQuery.ajax({
+              type: "POST",
+              dataType:"JSON",
+              url: base_url+"conference_mail.php",
+              data:"action=forconference&"+Frmval,
+              success:function(data){
+                var msg=eval(data); 
+                jQuery("button.res-btn").removeAttr("disabled").text('Submit Now');    
+                // alert(msg.message);
+                jQuery('div#msg').html(msg.message).css('display','block').fadeOut(9000);
+                jQuery("form#event_form")[0].reset();
+              }               
+            });
+            return false;
+          }
+        })
+      });
+      
+      $('#eventstart').timepicker({
+          timeFormat: 'h:mm p',
+          interval: 60,
+          dropdown: true,
+          scrollbar: true
+      });
+
+      $('#eventend').timepicker({
+          timeFormat: 'h:mm p',
+          interval: 60,
+          dropdown: true,
+          scrollbar: true
+      });
+      </script>
+</body>
+</html>

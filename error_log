@@ -1,0 +1,612 @@
+[22-Nov-2022 20:20:57 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home1/ycafeslx/godavarivillageresort.com/enquery_mail.php on line 4
+[16-Jan-2023 09:07:08 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[16-Jan-2023 09:07:08 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Feb-2023 05:02:37 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Feb-2023 05:02:37 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Feb-2023 10:06:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Feb-2023 10:06:04 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Feb-2023 03:15:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Feb-2023 03:15:30 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Feb-2023 03:17:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Feb-2023 03:17:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Feb-2023 03:25:12 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Feb-2023 03:25:12 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[09-Feb-2023 10:25:56 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[09-Feb-2023 10:25:56 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[12-Feb-2023 01:51:19 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[12-Feb-2023 01:51:19 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[13-Feb-2023 02:12:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[13-Feb-2023 02:12:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[13-Feb-2023 08:57:23 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[13-Feb-2023 08:57:23 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[13-Feb-2023 23:18:12 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[13-Feb-2023 23:18:12 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Feb-2023 03:39:28 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Feb-2023 03:39:28 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Feb-2023 03:39:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Feb-2023 03:39:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Feb-2023 05:51:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Feb-2023 05:51:39 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 03:17:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 03:17:15 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:18:49 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:18:49 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:18:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:18:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:18:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:18:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:37:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:37:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:40:33 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:40:33 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:41:33 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:41:33 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:42:55 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:42:55 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 04:46:40 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 04:46:40 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 05:00:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 05:00:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 05:11:50 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 05:11:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Feb-2023 05:24:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Feb-2023 05:24:07 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[18-Feb-2023 06:56:01 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[18-Feb-2023 06:56:01 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[20-Feb-2023 15:17:53 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[20-Feb-2023 15:17:53 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[21-Feb-2023 09:00:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[21-Feb-2023 09:00:05 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[21-Feb-2023 09:00:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[21-Feb-2023 09:00:15 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[22-Feb-2023 02:33:57 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[22-Feb-2023 02:33:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[22-Feb-2023 02:35:51 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[22-Feb-2023 02:35:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[22-Feb-2023 04:00:21 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[22-Feb-2023 04:00:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[22-Feb-2023 04:00:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[22-Feb-2023 04:00:25 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[23-Feb-2023 04:47:51 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[23-Feb-2023 04:47:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[24-Feb-2023 04:01:04 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[24-Feb-2023 04:01:04 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[24-Feb-2023 04:01:11 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[24-Feb-2023 04:01:11 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[24-Feb-2023 04:01:12 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[24-Feb-2023 04:01:12 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[24-Feb-2023 04:01:16 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[24-Feb-2023 04:01:16 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[24-Feb-2023 08:34:51 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[24-Feb-2023 08:34:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[25-Feb-2023 05:38:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[25-Feb-2023 05:38:25 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[25-Feb-2023 05:38:27 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[25-Feb-2023 05:38:27 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[25-Feb-2023 11:49:28 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[25-Feb-2023 11:49:28 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[26-Feb-2023 09:42:43 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[26-Feb-2023 09:42:43 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[26-Feb-2023 09:56:37 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[26-Feb-2023 09:56:37 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 01:14:52 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 01:14:52 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 01:15:35 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 01:15:35 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 01:16:01 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 01:16:01 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 01:16:03 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 01:16:03 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 02:25:25 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 02:25:25 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 02:30:31 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 02:30:31 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 02:57:34 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 02:57:34 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 03:00:52 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 03:00:52 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 03:00:52 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 03:00:52 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 03:11:31 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 03:11:31 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 20:50:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 20:50:14 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 20:51:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 20:51:09 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 20:56:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 20:56:05 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 21:01:02 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 21:01:02 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Feb-2023 21:09:52 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Feb-2023 21:09:52 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 00:48:08 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 00:48:08 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 01:47:41 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 01:47:41 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 01:48:06 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 01:48:06 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 02:00:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 02:00:59 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 02:01:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 02:01:04 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 02:01:12 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 02:01:12 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 02:01:54 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 02:01:54 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[28-Feb-2023 02:06:53 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[28-Feb-2023 02:06:53 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Mar-2023 05:54:00 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Mar-2023 05:54:00 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Mar-2023 08:40:24 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Mar-2023 08:40:24 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Mar-2023 08:43:49 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Mar-2023 08:43:49 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Mar-2023 08:58:42 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Mar-2023 08:58:42 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Mar-2023 08:58:42 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Mar-2023 08:58:42 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Mar-2023 09:00:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Mar-2023 09:00:17 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[02-Mar-2023 04:25:49 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[02-Mar-2023 04:25:49 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[02-Mar-2023 04:40:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[02-Mar-2023 04:40:44 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[03-Mar-2023 04:29:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[03-Mar-2023 04:29:14 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[05-Mar-2023 07:32:44 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[05-Mar-2023 07:32:44 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[05-Mar-2023 12:29:40 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[05-Mar-2023 12:29:40 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[05-Mar-2023 12:29:51 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[05-Mar-2023 12:29:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[05-Mar-2023 12:31:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[05-Mar-2023 12:31:04 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[05-Mar-2023 12:34:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[05-Mar-2023 12:34:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[05-Mar-2023 12:39:48 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[05-Mar-2023 12:39:48 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Mar-2023 03:32:34 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Mar-2023 03:32:34 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Mar-2023 09:08:03 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Mar-2023 09:08:03 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Mar-2023 09:08:43 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Mar-2023 09:08:43 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Mar-2023 09:08:44 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Mar-2023 09:08:44 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Mar-2023 09:08:46 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Mar-2023 09:08:46 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[06-Mar-2023 09:08:48 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[06-Mar-2023 09:08:48 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:42:31 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:42:31 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:44:10 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:44:10 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:44:10 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:44:10 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:44:10 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:44:10 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:52:38 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:52:38 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:52:49 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:52:49 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:55:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:55:05 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 03:55:32 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 04:03:54 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 04:03:54 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 07:40:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 07:40:25 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 07:40:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 07:40:25 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[07-Mar-2023 07:43:51 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[07-Mar-2023 07:43:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[08-Mar-2023 05:14:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[08-Mar-2023 05:14:07 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[08-Mar-2023 05:14:08 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[08-Mar-2023 05:14:08 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[08-Mar-2023 05:14:48 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[08-Mar-2023 05:14:48 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[11-Mar-2023 12:38:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[11-Mar-2023 12:38:26 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[14-Mar-2023 20:27:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[14-Mar-2023 20:27:05 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 01:41:57 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 01:41:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 01:41:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 01:41:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 01:41:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 01:41:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 05:01:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 05:01:17 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 05:01:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 05:01:17 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 05:01:17 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 05:01:17 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 05:01:18 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 05:01:18 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 05:01:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 05:01:18 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 05:01:22 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 05:01:22 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[15-Mar-2023 09:06:21 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[15-Mar-2023 09:06:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[16-Mar-2023 11:23:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[16-Mar-2023 11:23:22 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[16-Mar-2023 11:24:32 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[16-Mar-2023 11:24:32 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[16-Mar-2023 21:09:06 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[16-Mar-2023 21:09:06 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Mar-2023 06:10:01 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Mar-2023 06:10:01 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Mar-2023 11:17:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Mar-2023 11:17:20 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Mar-2023 11:17:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Mar-2023 11:17:20 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[17-Mar-2023 12:15:08 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[17-Mar-2023 12:15:08 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[19-Mar-2023 12:49:54 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[19-Mar-2023 12:49:54 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[21-Mar-2023 05:11:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[21-Mar-2023 05:11:19 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[21-Mar-2023 05:23:54 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[21-Mar-2023 05:23:54 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[21-Mar-2023 12:22:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[21-Mar-2023 12:22:50 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[21-Mar-2023 15:06:56 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[21-Mar-2023 15:06:56 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[23-Mar-2023 09:01:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[23-Mar-2023 09:01:30 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[23-Mar-2023 09:01:30 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[23-Mar-2023 09:01:30 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[27-Mar-2023 00:20:23 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[27-Mar-2023 00:20:23 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[30-Mar-2023 00:49:39 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[30-Mar-2023 00:49:39 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[01-Apr-2023 07:07:39 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[01-Apr-2023 07:07:39 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[03-Apr-2023 02:23:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[03-Apr-2023 02:23:57 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[03-Apr-2023 02:23:58 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[03-Apr-2023 02:23:58 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[03-Apr-2023 03:45:26 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 20
+[03-Apr-2023 03:45:27 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/ycafeslx/godavarivillageresort.com/includes/database.php on line 22
+[11-Sep-2023 08:10:35 UTC] PHP Warning:  require_once(/home/yetiserver/public_html/7_godavari/includes/config.php): failed to open stream: No such file or directory in /home/yetiserver/public_html/7_mgfr/includes/database.php on line 2
+[11-Sep-2023 08:10:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/yetiserver/public_html/7_godavari/includes/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/yetiserver/public_html/7_mgfr/includes/database.php on line 2
+[11-Sep-2023 08:12:16 UTC] PHP Notice:  Constant DB_SERVER already defined in /home/yetiserver/public_html/7_mgfr/includes/config.php on line 9
+[11-Sep-2023 08:12:16 UTC] PHP Notice:  Constant DB_USER already defined in /home/yetiserver/public_html/7_mgfr/includes/config.php on line 10
+[11-Sep-2023 08:12:16 UTC] PHP Notice:  Constant DB_PASS already defined in /home/yetiserver/public_html/7_mgfr/includes/config.php on line 11
+[11-Sep-2023 08:12:16 UTC] PHP Notice:  Constant DB_NAME already defined in /home/yetiserver/public_html/7_mgfr/includes/config.php on line 12
+[11-Sep-2023 08:12:16 UTC] PHP Fatal error:  Cannot declare class mysqliDatabase, because the name is already in use in /home/yetiserver/public_html/7_mgfr/includes/database.php on line 4
+[12-Sep-2023 15:10:11 Asia/Kathmandu] PHP Parse error:  syntax error, unexpected '.' in /home/yetiserver/public_html/srhotel/views/module.articles.php on line 92
+[13-Sep-2023 10:15:24 Asia/Kathmandu] PHP Notice:  Undefined variable: resocl____ in /home/yetiserver/public_html/srhotel/views/module.social.php on line 26
+[13-Sep-2023 10:42:01 Asia/Kathmandu] PHP Parse error:  syntax error, unexpected '$imgbulk' (T_VARIABLE) in /home/yetiserver/public_html/srhotel/views/module.package.php on line 82
+[13-Sep-2023 10:42:33 Asia/Kathmandu] PHP Parse error:  syntax error, unexpected '$imgbulk' (T_VARIABLE) in /home/yetiserver/public_html/srhotel/views/module.package.php on line 82
+[13-Sep-2023 10:43:03 Asia/Kathmandu] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/yetiserver/public_html/srhotel/views/module.package.php on line 83
+[18-Sep-2023 05:25:12 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home3/thesrhotel/public_html/includes/session.php on line 53
+[18-Sep-2023 05:26:34 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:34 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:34 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:36 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:36 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:36 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:36 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:36 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:36 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:41 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:41 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:41 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:41 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:41 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:41 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:41 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:41 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:41 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:42 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:42 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:42 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:42 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:42 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:42 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:43 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:43 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:51 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:51 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:51 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:51 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:51 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:51 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:51 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:52 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:52 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:52 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:53 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:53 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:53 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:54 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:54 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:26:56 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:11:56 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:01 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:01 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:01 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:01 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:01 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:01 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:08 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:08 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:08 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:08 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:08 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:08 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:09 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:09 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:09 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:09 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:09 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:10 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:10 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:10 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:10 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:10 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:10 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:10 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:10 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:10 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 05:27:11 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 05:27:11 UTC] PHP Deprecated:  Creation of dynamic property Session::$started is deprecated in /home3/thesrhotel/public_html/includes/session.php on line 5
+[18-Sep-2023 05:27:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/thesrhotel/public_html/includes/session.php on line 14
+[18-Sep-2023 11:12:11 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:11 Asia/Kathmandu] PHP Warning:  Undefined variable $imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:11 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:11 Asia/Kathmandu] PHP Deprecated:  preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated in /home3/thesrhotel/public_html/includes/functions.php on line 327
+[18-Sep-2023 11:12:14 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:14 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:14 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:14 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:14 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:14 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:15 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:16 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:16 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:16 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:16 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:16 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:16 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:07 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[18-Sep-2023 11:13:55 Asia/Kathmandu] PHP Notice:  Undefined variable: imglist in /home3/thesrhotel/public_html/views/module.slideshow.php on line 50
+[23-Sep-2023 22:29:26 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/enquery_mail.php on line 4
+[27-Sep-2023 11:44:02 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/enquery_mail.php on line 4
+[02-Nov-2023 07:06:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/thesrhotel/public_html/includes/database.php on line 20
+[02-Nov-2023 07:06:11 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/thesrhotel/public_html/includes/database.php on line 22
+[06-Mar-2024 20:51:57 Asia/Kathmandu] PHP Parse error:  syntax error, unexpected 'module' (T_STRING) in /home3/thesrhotel/public_html/views/module.contact.php on line 92
+[06-Mar-2024 20:51:58 Asia/Kathmandu] PHP Parse error:  syntax error, unexpected 'module' (T_STRING) in /home3/thesrhotel/public_html/views/module.contact.php on line 92
+[17-Apr-2024 09:50:34 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[02-May-2024 13:09:47 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[16-May-2024 15:39:53 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[17-May-2024 09:29:06 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[19-May-2024 02:40:58 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[21-May-2024 17:47:18 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/enquery_mail.php on line 4
+[26-May-2024 05:09:35 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[27-May-2024 00:13:50 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[01-Jul-2024 15:36:33 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[11-Jul-2024 12:38:50 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[27-Jul-2024 00:29:58 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/enquery_mail.php on line 4
+[03-Aug-2024 15:09:47 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[09-Aug-2024 21:49:19 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[10-Aug-2024 01:26:48 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[12-Aug-2024 01:15:19 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[18-Aug-2024 17:07:36 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4
+[20-Aug-2024 01:55:33 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/conference_mail.php on line 4

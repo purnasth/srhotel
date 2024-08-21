@@ -1,0 +1,6 @@
+[04-Apr-2024 02:22:55 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: Call to undefined method Offers::get_internal_link() in /home3/thesrhotel/public_html/apanel/popup/popup.php:302
+Stack trace:
+#0 /home3/thesrhotel/public_html/apanel/includeme.php(6): require_once()
+#1 /home3/thesrhotel/public_html/apanel/main.php(202): include('/home3/thesrhot...')
+#2 {main}
+  thrown in /home3/thesrhotel/public_html/apanel/popup/popup.php on line 302

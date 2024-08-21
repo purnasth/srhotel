@@ -1,0 +1,56 @@
+RewriteOptions inherit
+RewriteEngine On
+
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# AddType 'text/html; charset=UTF-8' html
+# AddHandler application/x-httpd-php56 .php
+
+#RewriteCond %{HTTP_HOST} !^www.thesrhotel.com$ [NC]
+#RewriteRule ^(.*)$ https://www.thesrhotel.com/$1 [L,R=301]
+
+#For Sitemap
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+
+#For home page. i.e. index.php
+RewriteRule ^home/?$ index.php [L]
+ErrorDocument 404 /index.php
+
+RewriteRule ^checkin$ checkin.php [L]
+RewriteRule ^request$ request.php [L]
+
+#For  pages.
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^page/([a-zA-Z0-9-]+)/?$ inner.php?slug=$1 [L]
+
+#For event booking pages.
+RewriteRule ^event/?$ event.php [L]
+
+#For facilities page.
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^facility-list/?$ services.php [L]
+
+#For gallery page.
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^gallery/([a-zA-Z0-9-]+)?$ gallery.php?slug=$1 [L]
+RewriteRule ^gallery/?$ gallery.php [L]
+
+#For contact us page.
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^contact-us/?$ contact.php [L]
+
+#For Package wise subpackage List and Details
+RewriteRule ^package/([a-zA-Z0-9-]+)$ package.php?slug=$1 [L]
+RewriteRule ^subpackage/([a-zA-Z0-9-]+)$ subpkgdetail.php?slug=$1 [L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

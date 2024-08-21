@@ -1,0 +1,12 @@
+[12-Sep-2023 08:10:21 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/yetiserver/public_html/srhotel/includes/controllers/ajax.gallery.php on line 127
+[12-Sep-2023 08:10:28 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/yetiserver/public_html/srhotel/includes/controllers/ajax.gallery.php on line 127
+[12-Sep-2023 08:10:28 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/yetiserver/public_html/srhotel/includes/controllers/ajax.gallery.php on line 127
+[15-Sep-2023 15:07:48 Asia/Kathmandu] PHP Notice:  Undefined property: Testimonial::$title in /home/yetiserver/public_html/srhotel/includes/controllers/ajax.testimonial.php on line 104
+[16-Jan-2024 02:34:27 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[16-Jan-2024 02:34:44 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[09-Feb-2024 21:50:27 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[09-Feb-2024 21:50:36 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[17-Feb-2024 04:53:05 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[17-Feb-2024 04:53:18 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[01-May-2024 17:46:12 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14
+[01-May-2024 17:46:17 Asia/Kathmandu] PHP Notice:  Undefined index: action in /home3/thesrhotel/public_html/includes/controllers/ajax.subscribers.php on line 14

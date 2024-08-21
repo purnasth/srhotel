@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags -->
+    <jcms:site:seotitle/>
+    <!-- Fevicon -->
+    <jcms:site:fevicon/>
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="assets/bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+    
+     <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css' integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <!-- google fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Domine:400,700">
+
+    <style>
+        #portfolio {
+            margin: 1rem 0;
+            /*-webkit-column-count: 3; 
+            -moz-column-count: 3;
+            column-count: 3;
+            -webkit-column-gap: 1rem;
+            -moz-column-gap: 1rem;
+            column-gap: 1rem;
+            -webkit-column-width: 33.33333333333333%;
+            -moz-column-width: 33.33333333333333%;
+            column-width: 33.33333333333333%;*/
+        }
+
+        .tile {
+            -webkit-transform: scale(0);
+            transform: scale(0);
+            -webkit-transition: all 350ms ease;
+            transition: all 350ms ease;
+            width: 32%;
+            display: inline-block;
+            margin: 5px;
+
+        }
+
+        .tile:hover {
+
+        }
+
+        .scale-anm {
+            transform: scale(1);
+        }
+
+        .tile img {
+            max-width: 100%;
+            width: 100%;
+            height: auto;
+            margin-bottom: 1rem;
+
+        }
+
+        .btn-style-three:focus {
+            outline: none;
+            border-color: var(--darken-2);
+            box-shadow: 0 0 0 3px var(--darken-3);
+            background: #0e385d;
+            border: 1px solid #04121f;
+            color: #fff;
+        }
+
+        .theme-btn {
+            margin-right: 5px;
+        }
+    </style>
+    
+    <style>
+        #header-background-gallery{
+            background: url(template/cms/images/gallery.jpg) no-repeat scroll bottom center/cover;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header-background-gallery">
+        <div id="topbar" class="topbar-transparent">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 flexbar">
+                    <!-- header location   -->  
+                    <jcms:module:header-location/>
+                    <!-- header location end   -->
+
+                    <!-- header social link   -->     
+                    <jcms:module:socilaLinktop/>
+                    <!-- header social link end   -->  
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <header id="header" class="header-transparent">
+            <div id="header-wrap">
+                <div class="container">
+                    <nav id="hmenu">
+                        <div id="head-mobile"></div>
+                        <div class="button"></div>
+                        <!-- <jcms:module:menu/> -->
+                        <jcms:module:menu/>
+    
+                        <div id="logo">
+                            <jcms:site:logo/>
+                        </div>
+    
+                        <jcms:module:menu-right/>
+                    </nav>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <div class="intro inner-intro">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="page-title text-right">
+                        <h1 class="margin-auto">GALLERY</h1>
+                        <p>The SR Hotel Photo Tour</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="breadcrumb-botton-area">
+    <div class="container">
+        <div class="left pull-left">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
+                <li>Gallery</li>
+            </ul>
+        </div>
+        <div class="right pull-right">
+            <a class="a2a_dd" href="https://www.addtoany.com/share"><i class="fa fa-share-alt" aria-hidden="true"></i> Share</a>
+        </div>
+    </div>
+</section>
+
+    <section id="room-single-section" class="content-room-single">
+    <jcms:module:gallery/>
+    <jcms:module:allgallery/>
+</section>
+
+    <jcms:module:subscribe_form/>
+    
+    <!-- start footer --> 
+    <footer>
+        <section class="container">
+            <section class="row">
+                <div class="widget get-in-touch col-md-4 col-sm-6">
+                    <h4 class="widget_title">Address</h4>
+                    <!--<jcms:site:footerlogo/>-->
+                    <jcms:module:location:footer-location/>
+                    <jcms:module:footer-locati on/>
+                 
+                </div>
+                
+                <div class="widget widget-links col-md-2 col-sm-6">
+                    <h4 class="widget_title">Explore</h4>
+                    <div class="widget-contact-list">
+                        <jcms:module:exploremenu/>
+                    </div>
+                </div>
+                
+                <div class="widget widget-links col-md-3 col-sm-6">
+                    <h4 class="widget_title">Quick Links</h4>
+                    <div class="widget-contact-list">
+                        <jcms:module:quickmenu/>
+                    </div>
+                </div>
+                
+                <div class="widget get-in-touch col-md-3 col-sm-6">
+                    <h4 class="widget_title">Get In Touch</h4>
+                    <div class="widget-contact-list">
+                           <jcms:module:socialbotttom/>
+                    </div>
+                </div>
+            </section>
+        </section>
+        
+        <section class="container clearfix footer-b-pad">
+            <div class="footer-copy">
+                <jcms:site:copyright/>
+            </div>
+        </section>
+    </footer>
+    <!-- end footer -->
+
+    <a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up"></i></a>
+
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.bxslider.js"></script>
+    <!-- owl carousel  -->
+    <script src="assets/js/owl.carousel.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <!--    <script src="assets/js/jquery.min.js"></script> -->
+    
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/zebra_datepicker.js"></script>
+    <!-- jQuery ui js -->
+    <script src="js/jquery.mixitup.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+    <script src="assets/magnific-popup/jquery.magnific-popup.js"></script>
+    <script src="vendors/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+    
+    <script src="vendors/imagelightbox/imagelightbox.min.js"></script>
+    <script src="js/front/isotope/jquery.isotope.min.js"></script>
+    <script src="js/front/jquery-ui.js"></script>
+    <script src="assets/js/style.js"></script>
+
+
+    <script src="js/custom.js"></script>
+    <script src="js/scripts.js"></script>
+
+    <script>
+        $(function () {
+            var selectedClass = "";
+            $(".fil-cat").click(function () {
+                selectedClass = $(this).attr("data-rel");
+                $("#portfolio").fadeTo(100, 0.1);
+                $("#portfolio div").not("." + selectedClass).fadeOut().removeClass('scale-anm');
+                setTimeout(function () {
+                    $("." + selectedClass).fadeIn().addClass('scale-anm');
+                    $("#portfolio").fadeTo(300, 1);
+                }, 300);
+    
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $('[data-fancybox="gallery"]').fancybox({
+            thumbs: {
+                autoStart: true
+            }
+        });
+    </script>
+
+</body>
+</html>

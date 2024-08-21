@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags -->
+    <jcms:site:seotitle/>
+    <!-- Fevicon -->
+    <jcms:site:fevicon/>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/magnific-popup/magnific-popup.css">
+    
+     <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css' integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <!--<<link rel="stylesheet" href="assets/css/flaticon.css">-->
+    <!--<link rel="stylesheet" href="assets/css/rtl.css">-->
+
+    <!-- google fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Domine:400,700">
+</head>
+
+<body>
+    <div id="header-background-room" style="background:url('<jcms:module:banlink/>');background-size: cover;background-repeat: no-repeat;">
+        <div id="topbar" class="topbar-transparent">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                    <!-- header location   -->  
+                    <jcms:module:header-location/>
+                    <!-- header location end   -->
+
+                    <!-- header social link   -->     
+                    <jcms:module:socilaLinktop/>
+                    <!-- header social link end   --> 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <header id="header" class="header-transparent">
+            <div id="header-wrap">
+                <div class="container">
+                    <nav id="hmenu">
+                        <div id="head-mobile"></div>
+                        <div class="button"></div>
+                        <!-- <jcms:module:menu/> -->
+                        <jcms:module:menu/>
+    
+                        <div id="logo">
+                            <jcms:site:logo/>
+                        </div>
+    
+                        <jcms:module:menu-right/>
+                    </nav>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <!-- banner area -->
+    <jcms:module:sub-package-banner/>
+    <!-- banner area end -->
+
+    <!-- SUBPACKAGE PAGE -->
+    <jcms:module:sub-package-detail/>
+    <!-- SUBPACKAGE PAGE END -->
+
+    <jcms:module:subscribe_form/>
+    
+    <!-- start footer --> 
+    <footer>
+        <section class="container">
+            <section class="row">
+                <div class="widget get-in-touch col-md-4 col-sm-6">
+                    <h4 class="widget_title">Address</h4>
+                    <!--<jcms:site:footerlogo/>-->
+                    <jcms:module:location:footer-location/>
+                                       <jcms:module:footer-loca tion/>
+                </div>
+                
+                <div class="widget widget-links col-md-2 col-sm-6">
+                    <h4 class="widget_title">Explore</h4>
+                    <div class="widget-contact-list">
+                        <jcms:module:exploremenu/>
+                    </div>
+                </div>
+                
+                <div class="widget widget-links col-md-3 col-sm-6">
+                    <h4 class="widget_title">Quick Links</h4>
+                    <div class="widget-contact-list">
+                        <jcms:module:quickmenu/>
+                    </div>
+                </div>
+                
+                <div class="widget get-in-touch col-md-3 col-sm-6">
+                    <h4 class="widget_title">Get In Touch</h4>
+                    <div class="widget-contact-list">
+     
+                    <jcms:module:socialbotttom/>
+                    </div>
+                </div>
+            </section>
+        </section>
+        
+        <section class="container clearfix footer-b-pad">
+            <div class="footer-copy">
+                <jcms:site:copyright/>
+            </div>
+        </section>
+    </footer>
+    <!-- end footer -->
+
+    <a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up"></i></a>
+
+    <link rel="stylesheet" href='//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css'>
+    <script src="assets/js/jquery-2.1.1.js"></script>
+    <script src="assets/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/style.js"></script>
+    <script src="assets/js/validator.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="assets/magnific-popup/jquery.magnific-popup.js"></script>
+    <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src='https://code.jquery.com/ui/1.12.1/jquery-ui.js'></script>
+    <script src="assets/magnific-popup/swiper-magnific-popup.js"></script>
+    <script src="assets/js/custom.js"></script>
+
+    <script async src="../static.addtoany.com/menu/page.js"></script>
+    <script type="text/javascript">
+        var base_url = jQuery('base').attr('url');
+        jQuery(document).ready(function () {
+            jQuery('form#ContactForm').validate({
+                errorElement: 'span',
+                errorClass: 'validate-has-error',
+                rules: {
+                    hfirstname: {required: true},
+                    hlastname: {required: true},
+                    hemail: {required: true, email: true},
+                    hmessage: {required: true}
+                },
+                messages: {
+                    hfirstname: {required: "Enter your First name",},
+                    hemail: {required: "Enter your email address", email: "Enter a VALID email address"},
+                    hlastname: {required: "Enter your Last name"},
+                    hmessage: {required: "Enter your Message"}
+                },
+                submitHandler: function (form) {
+                    var Frmval = jQuery("form#ContactForm").serialize();
+                    jQuery("button.contactBtn").attr("disabled", "true").html('Processing...');
+                    jQuery.ajax({
+                        type: "POST",
+                        dataType: "JSON",
+                        url: "../enquery_mail.php",
+                        data: "action=forcoment&" + Frmval,
+                        success: function (data) {
+                            var msg = eval(data);
+                            jQuery("button.contactBtn").removeAttr("disabled").html('Submit');
+                            jQuery('div#msg').html(msg.message).css('display', 'block');
+                            jQuery("form#ContactForm")[0].reset();
+                        }
+                    });
+                    return false;
+                }
+            })
+
+        });
+
+
+    </script>
+</body>
+</html>
