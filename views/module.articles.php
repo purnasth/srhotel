@@ -128,25 +128,41 @@ if(defined('HOME_PAGE')) {
     			$readmore = (count($content) > 1) ? '<a data-animation="animated fadeInRight" href="'.BASE_URL.'page/'.$innRow->slug.'" class="nhs-btn">Read more</a>' : '' ;
     		}
 
-    		$resinnh.='<div class="row d-flex">
-                <div class="col-md-5 d-flex align-item-center">
-                    <div class="text-left single-content">  
-                        <h3>Welcome to <br/><span>'.$innRow->sub_title.'</span><br /></h3>
+    		$resinnh.='<div class="about-content-ck">
+                <div class="col-md-6 mx-auto d-flex align-item-center text-center ">
+                    <div class="single-content">  
+                        <h3>Welcome to <span>'.$innRow->sub_title.'</span></h3>
                         <p>'.$content[0].'  </p>
-                        <a href="'.BASE_URL.'page/about" class="btn btn-cta text-right">Read More </a>
+                        <a href="'.BASE_URL.'page/about" class="btn btn-cta">Read More </a>
                       
+						
+
+						
                     </div>
                 </div>
 			';
-			$resinnh.='<div class="col-md-7">
+			$resinnh.='<div class="col-md-12" style="z-index: 0;">
 						<div class="text-left">
 							<div class="popup-gallery">
 							<div class="row">';
-					   foreach ($imageList as $imgs) {
-						$resinnh.='<div class="col-md-6 col-sm-12 col-xs-12">
+					   foreach ($imageList as $k=>$imgs) {
+						if($k==2){
+							$resinnh.='
+							<section class="col-md-12 header-video">
+								<div id="hero_video">
+									<video id="video1" autoplay="" loop="" muted="">
+										<source src="'. BASE_URL .'template/cms/images/video.mp4" type="video/mp4">
+										does not support
+									</video>
+								</div>
+							</section>';
+						}
+						$resinnh.='
+						<!-- <div class="col-md-2">
 							            <div class="space-bottom-large"> </div>
 						                <a class="image-popup-no-margins"> <img src="'.IMAGE_PATH.'articles/'.$imgs.'" alt=""></a>
-						            </div>';
+						            </div> -->
+									';
 					}
 					$resinnh.='</div></div>
 			</div>

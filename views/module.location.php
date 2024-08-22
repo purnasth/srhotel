@@ -1,8 +1,8 @@
 <?php $configRec = Config::find_by_id(1);
 $emlAddress = str_replace('@', '&#64;', $configRec->email_address);
 /*
-* Top Location
-*/
+ * Top Location
+ */
 $tpres = '';
 $tel = '';
 $phn = explode(",", $configRec->contact_info);
@@ -27,29 +27,23 @@ foreach ($telno as $tel) {
     $tellinked .= '<a href="tel:' . $tel . '">' . $tel . '&nbsp</a>';
 }
 $bloc .= '<ul>
-		<!--	<li>
+	<li class="class="fleft location_address">
 			<i class="fa fa-map-marker"></i>
-			<div class="fleft location_address">
 			' . $configRec->fiscal_address . '
-			</div>
 
 			</li>
-			<li>
+			<li class="fleft contact_no">
 			<i class="fa fa-phone"></i>
-			<div class="fleft contact_no">
 			' . $tellinked . '
-			</div>
 			</li>
-			<li>
+			<li class="fleft contact_mail">
 			<i class="fa fa-envelope-o"></i>
-			<div class="fleft contact_mail">
 			<a href="mailto:' . $emlAddress . '">' . $emlAddress . '</a>
-			</div>
-			</li>-->
+			</li>
 			<li>
 			    <div class="fleft">
 			    <!--General Manager-->
-    			<br><i class="fa-brands fa-whatsapp"></i><img src="'.BASE_URL.'/images/viber.svg" width="24" /><a href="https://wa.me/9857043020">9857043020</a>
+    			<br><i class="fa-brands fa-whatsapp"></i><img src="' . BASE_URL . '/images/viber.svg" width="24" /><a href="https://wa.me/9857043020">9857043020</a>
     			</div>
 			</li>
 		<!--	<li>
@@ -125,24 +119,18 @@ $jVars['module:contact-location'] = $rescnt;
 $footerBlock = '';
 
 $footerBlock .= '
-    <ul>
-        <li>
+    <ul class="footer-ul">
+        <li class="fleft location_address">
             <i class="fa fa-map-marker"></i>
-            <div class="fleft location_address">
                 ' . $configRec->fiscal_address . '
-            </div>
         </li>
-        <li>
+        <li class="fleft contact_no">
             <i class="fa fa-phone"></i>
-            <div class="fleft contact_no">
                 ' . $tell . '
-            </div>
         </li>
-        <li>
+        <li class="fleft contact_mail">
             <i class="fa fa-envelope-o"></i>
-            <div class="fleft contact_mail">
                 <a href="mailto:' . $emlAddress . '">' . $emlAddress . '</a>
-            </div>
         </li>
     </ul>
 ';
@@ -150,8 +138,8 @@ $jVars['module:location:footer-location'] = $footerBlock;
 
 
 /*
-* Google map
-*/
+ * Google map
+ */
 $resgmap = '';
 if ($configRec->location_type == 1) {
     $resgmap .= '<div class="col-md-4 col-sm-6 col-xs-12">
