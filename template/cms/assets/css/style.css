@@ -671,9 +671,6 @@ nav {
 #hmenu ul li.active,
 #hmenu ul li.has-sub.active:hover {
     background: transparent !important;
-    -webkit-transition: background .3s ease;
-    -ms-transition: background .3s ease;
-    transition: background .3s ease;
 }
 
 #hmenu>ul>li.has-sub>a {
@@ -724,8 +721,6 @@ nav {
     background: #e6e6e6;
     transition: all .25s ease
 }
-
-#hmenu ul ul li:hover {}
 
 #hmenu li:hover>ul {
     left: auto
@@ -1194,9 +1189,6 @@ nav {
     border: 1px solid #252525;
 }
 
-/*@media (max-width:560px){#booking-section .form-container{padding:20px 100px 0px;}*/
-}
-
 @media (min-width:561px) {
     #booking-section .form-container {
         padding: 20px 0px;
@@ -1267,7 +1259,7 @@ nav {
 
 .room-image {
     width: 100%;
-    height: 80vh;
+    height: 85vh;
     overflow: hidden;
 }
 
@@ -2219,8 +2211,6 @@ figure.effect-sadie:hover p {
     padding: 13px 0 7px;
 }
 
-.breadcrumb-botton-area .left {}
-
 .breadcrumb-botton-area .left ul {
     display: inline-block;
     margin-left: -2px;
@@ -2247,8 +2237,6 @@ figure.effect-sadie:hover p {
 .breadcrumb-botton-area .left ul li a:hover {
     color: #892e41;
 }
-
-.breadcrumb-botton-area .right {}
 
 .breadcrumb-botton-area .right a {
     color: #252525;
@@ -2586,8 +2574,6 @@ figure.effect-sadie:hover p {
     color: #892e41;
 }
 
-.form-style {}
-
 .form-style-heading {
     font-weight: bold;
     font-style: italic;
@@ -2628,10 +2614,6 @@ figure.effect-sadie:hover p {
 }
 
 #ContactForm input {
-    -webkit-transition: all 0.30s ease-in-out;
-    -moz-transition: all 0.30s ease-in-out;
-    -ms-transition: all 0.30s ease-in-out;
-    -o-transition: all 0.30s ease-in-out;
     border: 2px solid #e1e1e1;
     box-shadow: 1px 1px 4px #fff;
     -moz-box-shadow: 1px 1px 4px #fff;
@@ -2649,10 +2631,6 @@ figure.effect-sadie:hover p {
 }
 
 #ContactForm textarea {
-    -webkit-transition: all 0.30s ease-in-out;
-    -moz-transition: all 0.30s ease-in-out;
-    -ms-transition: all 0.30s ease-in-out;
-    -o-transition: all 0.30s ease-in-out;
     border: 2px solid #e1e1e1;
     box-shadow: 1px 1px 4px #fff;
     -moz-box-shadow: 1px 1px 4px #fff;
@@ -2677,10 +2655,6 @@ figure.effect-sadie:hover p {
 .form-style .tel-number-field,
 .form-style .textarea-field,
 .form-style .select-field {
-    -webkit-transition: all 0.30s ease-in-out;
-    -moz-transition: all 0.30s ease-in-out;
-    -ms-transition: all 0.30s ease-in-out;
-    -o-transition: all 0.30s ease-in-out;
     border: 2px solid #e1e1e1;
     box-shadow: 1px 1px 4px #fff;
     -moz-box-shadow: 1px 1px 4px #fff;
@@ -2694,10 +2668,6 @@ figure.effect-sadie:hover p {
     font: 400 15px/1.6em "Raleway", sans-serif;
 }
 
-.form-style .input-field:focus,
-.form-style .tel-number-field:focus,
-.form-style .textarea-field:focus,
-.form-style .select-field:focus {}
 
 .form-style .textarea-field {
     height: 100px;
@@ -3608,10 +3578,6 @@ label.error {
     height: 40px;
 }
 
-.left {
-    /*margin-left: 50px*/
-}
-
 .widget-contact-list ul li a:after {
     content: '|';
 
@@ -3690,7 +3656,7 @@ label.error {
     position: relative;
     padding: 16rem 0 8rem 0;
     /* background: url("../../../../images/gallery/galleryimages/1Nv2y-i8.jpg") no-repeat center center; */
-    background: url("../../../../images/slideshow/yJ8qk-drone-slide.jpg") no-repeat center center;
+    background: url("../img/hotel/2.jpg") no-repeat;
     background-attachment: fixed;
     background-size: cover;
     z-index: 1;
@@ -4135,9 +4101,9 @@ label.error {
     background-color: #fff;
 }
 
-.room-carousel .owl-nav {
+/* .room-carousel .owl-nav {
     margin-top: 5rem;
-}
+} */
 
 .room-carousel {
     position: relative;
@@ -4173,8 +4139,9 @@ label.error {
 
 
 .room-section {
-    background: rgba(211, 192, 139, 0.616) none repeat scroll 0 0;
+    /* background: rgba(211, 192, 139, 0.616) none repeat scroll 0 0; */
     /* background: rgba(7, 51, 0, 0.808) none repeat scroll 0 0; */
+    background: #d3c08b75 none repeat scroll 0 0;
     padding: 12rem 0;
     position: relative;
 }
@@ -4189,8 +4156,9 @@ label.error {
     height: 100%;
     opacity: 1;
     z-index: -1;
-    opacity: 0.5;
+    /* opacity: 0.85; */
     background-repeat: repeat;
+    mix-blend-mode: exclusion;
 }
 
 
@@ -4233,4 +4201,9 @@ label.error {
         /* transform: translateX(-100%); */
         transform: translateX(0%);
     }
+}
+
+.room-section .section_title h3 {
+    font-size: 3.5rem;
+    font-weight: 600;
 }
