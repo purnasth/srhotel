@@ -602,5 +602,29 @@ $(document).ready(function()
 <!--            });-->
 <!--        </script>-->
 
+<script>
+document.addEventListener('scroll', function() {
+    const animatedText = document.querySelector('.animated-text');
+    const textContainer = document.querySelector('.text-container');
+
+    // Get the position of the text container relative to the viewport
+    const rect = textContainer.getBoundingClientRect();
+
+    // Calculate the scroll progress relative to the text container
+    const scrollProgress = (window.innerHeight - rect.top) / (window.innerHeight + rect.height);
+
+    // Clamp the scroll progress between 0 and 1
+    const clampedScrollProgress = Math.max(0, Math.min(scrollProgress, 1));
+
+    // Calculate the translation based on the scroll progress
+    const translateXValue = -100 + clampedScrollProgress * 200; // From -100% to 100%
+
+    // Apply the translation to the text
+    animatedText.style.transform = `translateX(${translateXValue}%)`;
+});
+
+
+</script>
+
 </body>
 </html>

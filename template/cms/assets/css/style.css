@@ -104,18 +104,14 @@ h3 {
 }
 
 .owl-carousel .owl-nav [class*="owl-"] {
-    background-color: #f5f5f5;
-    border: 2px solid #eee;
+    background-color: #892e41;
+    border: 2px solid #ffe2e8;
     border-radius: 50%;
-    color: #262626;
     cursor: pointer;
     font-size: 0;
-    height: 42px;
-    line-height: 30px;
     transition: all 0.2s ease 0s;
-    width: 42px;
-    z-index: 200;
-    text-align: center;
+    width: 35px;
+    height: 35px;
 }
 
 .owl-carousel .owl-prev {
@@ -131,24 +127,22 @@ h3 {
 }
 
 .owl-carousel .owl-prev::before {
-    color: #262626;
+    color: #ffe2e8;
     content: "";
-    /* font-family: FontAwesome; */
-    font-size: 22px;
+    font-family: FontAwesome;
+    font-size: 1.5rem;
 }
 
 .owl-carousel .owl-next::before {
-    color: #262626;
+    color: #ffe2e8;
     content: "";
-    /* font-family: FontAwesome; */
-    font-size: 22px;
+    font-family: FontAwesome;
+    font-size: 1.5rem;
 }
 
 .owl-carousel .owl-nav [class*="owl-"] i {
-    color: #262626;
-    font-size: 22px;
-    line-height: 42px;
-    text-align: left;
+    color: #ffe2e8;
+    font-size: 1.5rem;
 }
 
 .owl-carousel .owl-nav [class*="owl-"]:hover i,
@@ -158,8 +152,9 @@ h3 {
 }
 
 .owl-carousel .owl-nav [class*="owl-"]:hover {
-    background-color: #892e41;
+    background-color: rgba(137, 46, 65, 0.5);
     border-color: #892e41;
+    color: #892e41 !important;
 }
 
 /**/
@@ -1462,24 +1457,19 @@ nav {
     margin-top: 0;
 }
 
-.room-section {
-    background: #d3c08bd8 none repeat scroll 0 0;
-    padding: 12rem 0;
-}
-
 .item-room {
-    background: #fff;
-    padding-bottom: 80px;
+    /* background: #fff; */
+    /* padding-bottom: 80px; */
     border: 1px solid #eee;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
 
 .item-room h2 {
-    font-size: 18px;
+    font-size: 2.25rem;
     /* font-family: Open Sans; */
     font-weight: 600;
     line-height: 25px;
-    color: #252525;
+    /* color: #252525; */
     text-transform: capitalize;
     padding: 0 25px;
 }
@@ -1495,21 +1485,20 @@ nav {
 }
 
 .room-text p {
-    padding: 0 20px 0 25px;
+    padding: 0 25px;
 }
 
 .item-room .room-price {
     /* font-size: 18px; */
-    font-size: 2rem;
+    font-size: 2.5rem;
     color: #892e41;
     /* font-family: Open Sans; */
     font-weight: 700;
     text-align: right;
-    margin-top: 10px;
+    /* margin-top: 15px; */
 }
 
 .item-room .room-price span {
-    color: #252525;
     text-align: right;
     padding-right: 0;
     padding-left: 0;
@@ -1527,7 +1516,7 @@ nav {
     border-radius: 2px;
     border: 1px solid #892e41;
     background: #892e41;
-    margin-top: 15px;
+    /* margin-top: 15px; */
     border-radius: 5rem;
     padding: 0.5em 2em;
     transition: all 200ms ease-in 0s;
@@ -2858,12 +2847,12 @@ figure.effect-sadie:hover p {
     display: block;
     position: relative;
     transition: all 500ms ease 0s;
-    background-color: #eeeeee8a;
+    background-color: #f5f5f577;
     backdrop-filter: blur(2px);
 }
 
 .single-testimonial-item .testimonial::before {
-    border-left: 20px solid #eeeeee8a;
+    border-left: 20px solid #f5f5f577;
     border-right: 16px solid transparent;
     border-top: 16px solid transparent;
     bottom: -27px;
@@ -2879,9 +2868,9 @@ figure.effect-sadie:hover p {
 .single-testimonial-item .testimonial p {
     /* font-size: 14px; */
     /* line-height: 26px; */
-    color: #414141;
+    color: #333333;
     line-height: 1.45;
-    font-weight: 300;
+    font-weight: 400;
     margin: 0;
     max-height: 20rem;
     overflow: auto;
@@ -2916,7 +2905,8 @@ figure.effect-sadie:hover p {
 }
 
 .single-testimonial-item .client-info .title-box h4 {
-    color: #252525;
+    /* color: #252525; */
+    color: #ffe2e8;
     font-size: 1.5rem;
     font-weight: 600;
     text-transform: capitalize;
@@ -2924,9 +2914,11 @@ figure.effect-sadie:hover p {
 }
 
 .single-testimonial-item .client-info .title-box p {
-    color: #892e41;
+    /* color: #892e41; */
+    color: #ffe2e8;
     margin: 0;
-    font-weight: 500;
+    /* font-weight: 500; */
+    opacity: 0.8;
 }
 
 .single-testimonial-item:hover p {
@@ -3099,9 +3091,9 @@ figure.effect-sadie:hover p {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    width: 50px;
-    height: 50px;
+    background: #892e41;
+    width: 40px;
+    height: 40px;
     display: block;
     border-radius: 35px;
     z-index: 99;
@@ -3715,9 +3707,8 @@ label.error {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #ffd5deb3;
-    /* background-color: #892e41;
-    opacity: 0.5; */
+    /* background-color: #ffd5deb3; */
+    background-color: rgba(137, 46, 66, 0.458);
     z-index: -1;
 }
 
@@ -3733,6 +3724,7 @@ label.error {
 .header-video {
     position: relative;
     overflow: hidden;
+    padding-inline: 0;
 }
 
 #hero_video {
@@ -3740,7 +3732,6 @@ label.error {
     background-size: cover;
     color: #fff;
     width: 100%;
-    font-size: 16px;
     display: table;
     height: 600px;
     z-index: 99;
@@ -3993,13 +3984,13 @@ label.error {
 .messenger {
     position: fixed !important;
     right: 20px !important;
-    bottom: 90px !important;
+    bottom: 85px !important;
     z-index: 1 !important;
 }
 
 .messenger img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     object-fit: contain;
 }
 
@@ -4045,6 +4036,12 @@ label.error {
 .header-video video {
     width: 100%;
     height: 80vh !important;
+}
+
+@media (max-width: 768px) {
+    .header-video video {
+        height: 100% !important;
+    }
 }
 
 
@@ -4136,4 +4133,104 @@ label.error {
 
 .attractions-carousel {
     background-color: #fff;
+}
+
+.room-carousel .owl-nav {
+    margin-top: 5rem;
+}
+
+.room-carousel {
+    position: relative;
+}
+
+.absolute-room-details {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 1em;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent);
+}
+
+.absolute-room-details * {
+    color: #fff;
+}
+
+.room-text {
+    padding-top: 5em;
+}
+
+.item-room .room-price p {
+    color: #892e41;
+    -webkit-text-stroke: 0.2px #ffd5deb3;
+    text-shadow: 1px 1px 1px #fff;
+
+}
+
+.item-room .room-price p span {
+    color: #fff;
+    text-shadow: none;
+}
+
+
+.room-section {
+    background: rgba(211, 192, 139, 0.616) none repeat scroll 0 0;
+    /* background: rgba(7, 51, 0, 0.808) none repeat scroll 0 0; */
+    padding: 12rem 0;
+    position: relative;
+}
+
+.room-section::before {
+    content: "";
+    background: url('../img/pattern/pattern.avif') no-repeat center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    z-index: -1;
+    opacity: 0.5;
+    background-repeat: repeat;
+}
+
+
+/* para;;ax */
+
+
+.text-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    height: 100px;
+    font-weight: 700;
+    text-transform: capitalize;
+    /* margin-top: 80px; */
+    transform: translateY(60px);
+    color: #892e41;
+}
+
+/* .animated-text {
+    font-size: 4rem;
+    position: absolute;
+    white-space: nowrap;
+    transform: translateX(-100%);
+    text-align: center;
+} */
+
+.animated-text {
+    position: absolute;
+    font-size: 4rem;
+    white-space: nowrap;
+    animation: slide-infinite 10s linear infinite;
+}
+
+@keyframes slide-infinite {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        /* transform: translateX(-100%); */
+        transform: translateX(0%);
+    }
 }

@@ -166,6 +166,15 @@ if(defined('HOME_PAGE')) {
 					}
 					$resinnh.='</div></div>
 			</div>
+			<div class="parallax-content">
+        <div class="spacer"></div>
+
+        <div class="text-container">
+            <h4 class="animated-text">your perfect destination for a luxurious and comfortable stay. </h4>
+        </div>
+
+        <div class="spacer"></div>
+    </div>
 			</div>';
 				
 	}

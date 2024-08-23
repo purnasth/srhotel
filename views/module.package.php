@@ -92,7 +92,8 @@ if (defined('HOME_PAGE')) {
 											<div class="room-image">
 											<img src="' . IMAGE_PATH . 'subpackage/banner/' . $imgbulk[0] . '" alt="' . $subaRow->title . '">
 											</div>
-
+											
+											<div class="absolute-room-details">
 											<div class="room-text">
 											<a href="' . BASE_URL . '/subpackage/' . $subaRow->slug . '"><h2>' . $subaRow->title . '</h2></a>
 										
@@ -105,6 +106,7 @@ if (defined('HOME_PAGE')) {
 											</div>
 											<div class="room-price pull-right">
 											<p>' . $subaRow->onep_price . ' ' . $subaRow->threep_price . ' <span>Per Night</span></p>
+											</div>
 											</div>
 											</div>
 											</div>

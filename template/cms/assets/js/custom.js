@@ -70,6 +70,7 @@
     autoplay: true,
     autoplayTimeout: 3500,
     autoplayHoverPause: true,
+    dots: false,
     responsive: {
       0: {
         items: 1,
@@ -108,7 +109,7 @@
       1000: {
         items: 1,
         nav: true,
-        loop: false,
+        loop: true,
         dots: false,
       },
     },
