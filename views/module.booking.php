@@ -62,7 +62,8 @@ if($booking_type==2) {
                 <button onclick="location.href = \https://www.godavarivillageresort.com/result.php?hotel_code=61MBux\';"  class="button-small-solid" id="btn-book">Book Now</button>
             </div>
         </div>
-    </form></div>';
+    </form></div>
+     <p>Call us at <a href="tel:+9779864442530" class="navlink">+977-9864442530</a> for direct booking. </p>';
 
 }
 

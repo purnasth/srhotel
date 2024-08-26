@@ -17,6 +17,7 @@
     autoplay: true,
     autoplayTimeout: 2900,
     autoplayHoverPause: true,
+    dots: false,
     responsive: {
       0: {
         items: 1,
@@ -28,9 +29,8 @@
       },
       1000: {
         items: 1,
-        nav: false,
+        nav: true,
         loop: true,
-        dots: true,
       },
     },
   });

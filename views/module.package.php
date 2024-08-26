@@ -222,7 +222,7 @@ if (defined("PACKAGE_PAGE") and isset($_REQUEST['slug'])) {
 				if ($bimg) {
 
 
-					$pkgresult .= '<section id="discover" class="content">
+					$pkgresult .= '<section id="discover" class="content dine">
 						        <div class="container">
 						            <div class="row">
 						                <div class="col-md-6">
@@ -326,7 +326,7 @@ if (defined("PACKAGE_PAGE") and isset($_REQUEST['slug'])) {
 						<div class="text">
 						<h4><a href="#">Multi Cuisine</a></h4>
 						<p>
-						From variety of Nepali food to delicious international dishes.
+						Varieties of Nepali & Foreign dishes.
 						</p>
 						</div>
 						</div>
@@ -481,7 +481,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 								<img  class="icons" src="' . IMAGE_PATH . 'features/' . $icoRec->image . '" 
 									alt="' . $icoRec->title . '" height="60px"/>
 								</span>
-								<br> <span class="center">' . $icoRec->title . '</span>
+								<br> <span class="center facilities-title">' . $icoRec->title . '</span>
 								</div>';
 							}
 						}
@@ -495,7 +495,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 						    <div class="container">
 						        <div class="row">
 						       <div class="col-md-9 col-sm-12 col-xs-12">
-						            <div class="single-room-carousel owl-carousel owl-theme">';
+						            <div class="single-room-carousel owl-carousel owl-theme package-custom">';
 			$subpkgImg = $subpkgRec->image;
 			if ($subpkgImg != "a:0:{}") {
 				$subimageList = unserialize($subpkgImg);
@@ -511,7 +511,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 			$resubpkgDetail .= '</div>
 										        </div>
 										        ';
-			$resubpkgDetail .= '<div class="col-md-3 col-sm-12 col-xs-12">
+			$resubpkgDetail .= '<div class="col-md-3 col-sm-12 col-xs-12 sticky-reservation">
 							<div class="row">
 							
 							<h2> Make <br><span> Reservation</span></h2>
@@ -726,7 +726,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 												<img src="' . IMAGE_PATH . 'subpackage/banner/' . $relimageList[0] . '" alt="blog"/>
 												<figcaption>
 												<h2>' . $simitem->title . '</h2>
-												<p>' . substr(strip_tags($simitem->detail), 0, 50) . '<br /> <a href="' . BASE_URL . 'subpackage/' . $simitem->slug . '">View more</a></p>
+												<p>' . substr(strip_tags($simitem->detail), 0, 50) . '</p><a href="' . BASE_URL . 'subpackage/' . $simitem->slug . '">View more</a>
 												</figcaption>           
 												</figure>
 												</div>

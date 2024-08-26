@@ -9,10 +9,14 @@
     --black: #000000;
     /* --logo-red: #892e41; */
     --logo-red: #751724;
+    --red-bg: #d19391e8;
+    --red-light-bg: #d543571f;
     --logo-yellow: #f9c236;
     --pink-bg: #ffd5deb3;
-    --yellow-bg: #ffe8ad3d;
-    --blue-bg: #d5e8ff;
+    /* --yellow-bg: #ffe8ad3d; */
+    --yellow-bg: #fff9eb;
+    /* --blue-bg: #0aa6be24; */
+    --blue-bg: #e7f6f9;
     --blue: #0aa6be;
 }
 
@@ -1394,7 +1398,7 @@ nav {
 #discover.content h3 {
     color: #252525;
     /* font-family: Montserrat; */
-    font-size: 38px;
+    font-size: 3rem;
     font-weight: 600;
     padding: 0 0 15px 0px;
     line-height: 46px;
@@ -1910,6 +1914,13 @@ figure.effect-sadie a {
     color: var(--white)
 }
 
+figure.effect-sadie:hover a {
+    background: var(--logo-red);
+    padding: 0.5em 1em;
+    border-radius: 2rem;
+    color: var(--white)
+}
+
 figure.effect-sadie h2 {
     position: absolute;
     bottom: 5%;
@@ -2021,7 +2032,7 @@ figure.effect-sadie:hover p {
 
 /**/
 .blog-section {
-    padding: 20px 0 50px;
+    padding: 10rem 0;
 }
 
 .attractions-carousel2 {
@@ -2046,7 +2057,7 @@ figure.effect-sadie:hover p {
 }
 
 .blog-section {
-    border-top: 1px solid #eee;
+    background: var(--red-light-bg);
 }
 
 #header-background-room::before {
@@ -2067,7 +2078,7 @@ figure.effect-sadie:hover p {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 500px;
+    height: 92vh;
 }
 
 #header-background-contact::before,
@@ -2088,9 +2099,11 @@ figure.effect-sadie:hover p {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%x;
-    height: 500px;
+    width: 100%;
+    height: 92vh;
 }
+
+
 
 #header-background-about {
     background: url('../../images/galleryA.jpg') no-repeat scroll bottom center/cover;
@@ -2135,7 +2148,13 @@ figure.effect-sadie:hover p {
     background-repeat: no-repeat;
     background-size: container;
     width: 100%;
-    height: 500px
+    height: 100vh;
+}
+
+@media screen and (max-width: 768px) {
+    #header-background-hall {
+        height: 400px;
+    }
 }
 
 #header-background-gallery::before {
@@ -2177,7 +2196,7 @@ figure.effect-sadie:hover p {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 500px
+    height: 92vh;
 }
 
 .restaurant-section .container {
@@ -2197,7 +2216,7 @@ figure.effect-sadie:hover p {
 .page-title,
 .intro {
     position: absolute;
-    bottom: 30px;
+    bottom: 10px;
     text-align: center;
     width: 100%;
 
@@ -2225,10 +2244,9 @@ figure.effect-sadie:hover p {
 .page-title h1 {
     color: #f2f2f2;
     /* font-family: Montserrat; */
-    font-size: 30px;
+    font-size: 3rem;
     font-weight: 600;
-    line-height: 36px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     padding-bottom: 5px;
 }
 
@@ -2248,6 +2266,7 @@ figure.effect-sadie:hover p {
 .breadcrumb-botton-area {
     border-bottom: 1px solid #f0f0f0;
     padding: 13px 0 7px;
+    background: var(--red-bg);
 }
 
 .breadcrumb-botton-area .left ul {
@@ -2299,7 +2318,8 @@ figure.effect-sadie:hover p {
 }
 
 #room-single-section {
-    padding: 15px 0;
+    padding: 10rem 0;
+    background: var(--yellow-bg);
 }
 
 #room-single-section h2 {
@@ -2482,21 +2502,21 @@ figure.effect-sadie:hover p {
 
 /**/
 .tab {
-    margin-top: 30px;
+    margin-top: 5rem;
 }
 
 .tab .nav-tabs {
     border: none;
-    border-bottom: 1px solid #e4e4e4;
+    /* border-bottom: 1px solid #e4e4e4; */
 }
 
 .nav-tabs li a {
     padding: 15px 40px;
-    border: 1px solid #252525;
+    /* border: 1px solid #252525;
     border-top: 2px solid #252525;
-    border-right: 0px none;
-    background: #6e1f1b;
-    color: var(--white);
+    border-right: 0px none; */
+    background: var(--red-bg);
+    color: var(--logo-red);
     border-radius: 0px;
     margin-right: 0px;
     font-weight: 600;
@@ -2504,10 +2524,10 @@ figure.effect-sadie:hover p {
 }
 
 .nav-tabs li a:hover {
-    border-bottom-color: var(--logo-red);
+    /* border-bottom-color: var(--logo-red);
     border: 1px solid var(--logo-red);
     border-top: 2px solid var(--logo-red);
-    border-right: 0px none;
+    border-right: 0px none; */
     background: var(--logo-red);
     color: var(--white);
 }
@@ -2518,27 +2538,28 @@ figure.effect-sadie:hover p {
     margin-right: 10px;
 }
 
-.nav-tabs li:last-child {
+/* .nav-tabs li:last-child {
     border-right: 1px solid #ededed;
-}
+} */
 
 .nav-tabs li.active a,
 .nav-tabs li.active a:focus,
 .nav-tabs li.active a:hover {
+    border: 0;
     border-top: 3px solid var(--logo-red);
-    border-right: 1px solid #d3d3d3;
+    /* border-right: 1px solid #d3d3d3; */
     margin-top: -15px;
     color: #252525;
     padding: 22px 40px;
 }
 
 .tab .tab-content {
-    padding: 50px 25px;
+    padding: 2rem 0;
     line-height: 22px;
-    border-top: 0px solid #ededed;
+    /* border-top: 0px solid #ededed;
     border-bottom: 1px solid #ededed;
     border-left: 1px solid #ededed;
-    border-right: 1px solid #ededed;
+    border-right: 1px solid #ededed; */
 }
 
 .tab .tab-content h3 {
@@ -2653,60 +2674,38 @@ figure.effect-sadie:hover p {
 }
 
 #ContactForm input {
-    border: 2px solid #e1e1e1;
-    box-shadow: 1px 1px 4px var(--white);
-    -moz-box-shadow: 1px 1px 4px var(--white);
-    -webkit-box-shadow: 1px 1px 4px var(--white);
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    padding: 7px;
+    border: 0;
+    border-radius: 0;
     outline: none;
-    color: #727272;
-    font-size: 14px;
-    /* font-family: Open Sans; */
+    border-bottom: 2px solid var(--logo-red);
+    color: var(--logo-red);
+    font-size: 1.5rem;
+    padding: 1.5em 0.5em;
     font-weight: 500;
-    height: 45px;
+    background: var(--red-light-bg);
 }
 
 #ContactForm textarea {
-    border: 2px solid #e1e1e1;
-    box-shadow: 1px 1px 4px var(--white);
-    -moz-box-shadow: 1px 1px 4px var(--white);
-    -webkit-box-shadow: 1px 1px 4px var(--white);
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    padding: 7px;
+    border: 0;
+    border-radius: 0;
     outline: none;
-    color: #727272;
-    font-size: 14px;
-    /* font-family: Open Sans; */
+    border-bottom: 2px solid var(--logo-red);
+    color: var(--logo-red);
+    font-size: 1.5rem;
+    padding: 1.5em 0.5em;
     font-weight: 500;
-    height: 200px;
+    background: var(--red-light-bg);
+}
+
+#ContactForm input::placeholder,
+#ContactForm textarea::placeholder {
+    color: var(--logo-red);
+    opacity: 0.7;
 }
 
 .form-control::-moz-placeholder {
-    color: #727272;
+    color: var(--logo-red);
 }
-
-.form-style input.input-field,
-.form-style .tel-number-field,
-.form-style .textarea-field,
-.form-style .select-field {
-    border: 2px solid #e1e1e1;
-    box-shadow: 1px 1px 4px var(--white);
-    -moz-box-shadow: 1px 1px 4px var(--white);
-    -webkit-box-shadow: 1px 1px 4px var(--white);
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    padding: 7px;
-    outline: none;
-    color: #bababa;
-    font: 400 15px/1.6em "Raleway", sans-serif;
-}
-
 
 .form-style .textarea-field {
     height: 100px;
@@ -2976,15 +2975,19 @@ figure.effect-sadie:hover p {
     text-align: center;
     color: #6b6b6b;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 0.8em;
     transition: all 500ms ease 0s;
+    --webkit-line-clamp: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .services-v2 i {
     text-align: center;
     color: var(--logo-red);
     font-size: 27px;
-    border: 1px solid #eee;
+    border: 1px solid #7517247c;
     border-radius: 100%;
     padding: 15px;
     width: 60px;
@@ -3050,22 +3053,30 @@ figure.effect-sadie:hover p {
 
 /**/
 #aboutus.content {
-    background: var(--white);
-    padding: 15px 0px;
+    background: var(--blue-bg);
+    /* padding: 15px 0px; */
+    padding: 8rem 0;
 }
 
 #aboutus.content h3 {
-    color: #252525;
+    color: var(--blue);
     /* font-family: Montserrat; */
-    font-size: 24px;
-    font-weight: 600;
+    font-size: 2.4rem;
+    font-weight: 700;
     padding: 0 0 5px 0px;
     line-height: 46px;
     text-transform: uppercase;
 }
 
+#aboutus.content span {
+    color: var(--blue);
+    /* font-family: Montserrat; */
+    font-size: 2rem;
+    font-weight: 700;
+}
+
 #aboutus.content p {
-    font-size: 17px;
+    font-size: 1em;
 }
 
 #aboutus .single-content {
@@ -3585,10 +3596,15 @@ label.error {
 
 .form-inner {
     border: 1px solid #00000012;
-    background: var(--logo-red);
+    background: var(--red-bg);
     padding: 10px 0px 0px;
     border-radius: 3px;
     color: var(--white);
+    margin-top: 20px;
+}
+
+.form-inner b {
+    color: var(--logo-red);
 }
 
 .button-small-solid {
@@ -3609,6 +3625,7 @@ label.error {
 
 #room-single-section h2 span {
     color: var(--logo-red);
+    font-weight: 600;
 }
 
 .button-small-solid:hover {
@@ -4327,8 +4344,9 @@ label.error {
 
 
     #discover.content,
-    .room-section {
-        padding: 8rem 0;
+    .room-section,
+    .blog-section {
+        padding: 6rem 0;
     }
 
     .room-section .owl-theme .owl-nav {
@@ -4361,4 +4379,107 @@ label.error {
 
 #header.sticky #logo .scroll {
     display: block;
+}
+
+#discover.content.dine {
+    background: var(--yellow-bg);
+}
+
+#discover.content.dine h3 span {
+    color: var(--logo-yellow);
+    font-family: "Domine", serif;
+}
+
+#discover.content.dine .owl-carousel .owl-nav {
+    top: auto;
+}
+
+#discover.content.dine .owl-carousel .owl-nav button {
+    background: var(--logo-yellow);
+    color: var(--logo-red);
+}
+
+#aboutus.content .owl-nav span {
+    display: none;
+}
+
+#aboutus.content .owl-carousel .owl-nav {
+    top: auto;
+}
+
+#aboutus.content {
+    padding-bottom: 15rem;
+}
+
+#aboutus.content .owl-carousel .owl-nav button {
+    background: var(--blue);
+    color: var(--logo-red);
+}
+
+
+
+.sticky-reservation {
+    position: sticky;
+    top: 50px;
+    z-index: 9;
+    background-color: var(--yellow-bg);
+}
+
+.sticky-reservation>p {
+    margin-top: 20px;
+}
+
+.sticky-reservation>p a {
+    color: var(--logo-red);
+    font-weight: 600;
+}
+
+.package-custom .owl-nav {
+    top: auto !important;
+}
+
+.room-fac-wrapper .facilities-title {
+    font-size: 0.8em;
+    font-weight: 600;
+}
+
+#ContactForm {
+    max-width: 50%;
+    margin: 20px 0;
+}
+
+@media screen and (max-width: 768px) {
+
+    #header-background-room,
+    #header-background-contact,
+    #header-background-about,
+    #header-background-amenities {
+        height: 400px;
+    }
+
+    #aboutus.content,
+    #room-single-section {
+        padding: 6rem 0;
+    }
+
+    .services-v2 {
+        padding: 2em;
+    }
+
+    .restaurant-section .container {
+        padding: 2rem;
+    }
+
+    .page-title {
+        display: none;
+    }
+
+    .sticky-reservation {
+        position: static;
+    }
+
+    #ContactForm {
+        max-width: 100%;
+    }
+
 }
