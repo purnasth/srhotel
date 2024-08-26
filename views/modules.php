@@ -14,7 +14,8 @@ $jVars['site:fevicon']		=  '<link rel="shortcut icon" href="'.IMAGE_PATH.'prefer
 							    <link rel="apple-touch-icon" sizes="72x72" href="'.IMAGE_PATH.'preference/'.$siteRegulars->icon_upload.'"> 
 							    <link rel="apple-touch-icon" sizes="114x114" href="'.IMAGE_PATH.'preference/'.$siteRegulars->icon_upload.'">';
 $jVars['site:logo']			= '	<a href="'.BASE_URL.'home" class="logo" data-dark-logo="images/logo-dark.png">
-          						<img src="'.IMAGE_PATH.'preference/'.$siteRegulars->logo_upload.'" alt="'.$siteRegulars->sitetitle.'">
+          						<img src="'.IMAGE_PATH.'preference/'.$siteRegulars->logo_upload.'" alt="'.$siteRegulars->sitetitle.'" class="original">
+          						<img src="'.IMAGE_PATH.'preference/'.$siteRegulars->logo_upload_2.'" alt="'.$siteRegulars->sitetitle.'" class="scroll">
           						</a>';	
 
 $jVars['site:footerlogo']	= '<a href="'.BASE_URL.'home">

@@ -68,6 +68,9 @@
 			if(!empty($_REQUEST['imageArrayname2'])):
 				$record->logo_upload		= $_REQUEST['imageArrayname2'];
 			endif;
+			if(!empty($_REQUEST['imageArrayname5'])):
+				$record->logo_upload_2		= $_REQUEST['imageArrayname5'];
+			endif;
 			$record->default_banner_upload = (!empty($_REQUEST['imageArrayname3']))?$_REQUEST['imageArrayname3']:'';
 
 

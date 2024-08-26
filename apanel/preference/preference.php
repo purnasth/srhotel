@@ -131,6 +131,41 @@ $moduleFoldername = "";		// Image folder name
             <div class="form-row">
             	<div class="form-label col-md-2">
                     <label for="">
+                       Logo Image Scroll:
+                    </label>
+                </div> 
+                
+                <?php if(!empty($PrefeRow->logo_upload_2)):?>
+                <div class="col-md-2" id="removeSavedimg5">
+                    <div class="infobox info-bg">                            	                                
+                        <div class="button-group" data-toggle="buttons">
+                            <span class="float-left">
+                                <?php 
+                                    if(file_exists(SITE_ROOT."images/preference/".$PrefeRow->logo_upload_2)):
+                                        $filesize = filesize(SITE_ROOT."images/preference/".$PrefeRow->logo_upload_2);
+                                        echo 'Size : '.getFileFormattedSize($filesize);
+                                    endif;
+                                ?>
+                            </span> 
+                            <a class="btn small float-right" href="javascript:void(0);" onclick="deleteSavedPreferenceimage(5);">
+                                <i class="glyph-icon icon-trash-o"></i>
+                            </a>                                                       
+                        </div>
+                        <img src="<?php echo IMAGE_PATH.'preference/thumbnails/'.$PrefeRow->logo_upload_2;?>"  style="width:100%"/>                                                                                   
+                    </div> 
+                </div>
+                <?php endif;?>
+                <div class="form-input col-md-10 uploader5 <?php echo !empty($PrefeRow->logo_upload_2)?"hide":"";?>">          
+                   <input type="file" name="logo_upload_2" id="logo_upload_2" class="transparent no-shadow">
+                   <label><small>Image Dimensions (<?php echo Module::get_properties($moduleId,'simgwidth');?> px X <?php echo Module::get_properties($moduleId,'simgheight');?> px)</small></label>
+                </div>                
+                <!-- Upload user image preview -->
+            	<div id="preview_Image5"><input type="hidden" name="imageArrayname5" value="" class="" /></div>
+            </div>
+
+            <div class="form-row">
+            	<div class="form-label col-md-2">
+                    <label for="">
                        Default Banner Image :
                     </label>
                 </div> 
@@ -319,6 +354,41 @@ $moduleFoldername = "";		// Image folder name
 			var filename =  data;
 			$.post('<?php echo BASE_URL;?>apanel/preference/uploaded_image2.php',{imagefile:filename},function(msg){			
 				   $('#preview_Image2').html(msg).show();
+				}); 
+				
+		},
+		'onDialogOpen'      : function(event,ID,fileObj) {		
+		},
+		'onUploadError' : function(file, errorCode, errorMsg, errorString) {
+			   alert(errorMsg);
+			},
+		'onUploadComplete' : function(file) {
+			  //alert('The file ' + file.name + ' was successfully uploaded');
+			} 	
+	  });
+
+	$('#logo_upload_2').uploadify({
+		'swf'  : '<?php echo ASSETS_PATH;?>uploadify/uploadify.swf',
+		'uploader'   : '<?php echo ASSETS_PATH;?>uploadify/uploadify.php',
+		'formData'   : {PROJECT : '<?php echo SITE_FOLDER;?>',targetFolder:'images/preference/',thumb_width:200,thumb_height:200},
+		'method'     : 'post',
+		'cancelImg'  : '<?php echo BASE_URL;?>uploadify/cancel.png',
+		'auto'       : true,
+		'multi'      : false,	
+		'hideButton' : false,	
+		'buttonText' : 'Upload Image',
+		'width'      : 125,
+		'height'	 : 21,
+		'removeCompleted' : true,
+		'progressData' : 'speed',
+		'uploadLimit' : 1,
+		'fileTypeExts' : '*.gif; *.jpg; *.jpeg;  *.png; *.GIF; *.JPG; *.JPEG; *.PNG;',
+		 'buttonClass' : 'button formButtons',
+	   /* 'checkExisting' : '/uploadify/check-exists.php',*/
+		'onUploadSuccess' : function(file, data, response) {
+			var filename =  data;
+			$.post('<?php echo BASE_URL;?>apanel/preference/uploaded_image5.php',{imagefile:filename},function(msg){			
+				   $('#preview_Image5').html(msg).show();
 				}); 
 				
 		},
