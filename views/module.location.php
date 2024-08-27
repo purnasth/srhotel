@@ -99,8 +99,12 @@ foreach ($tel as $telphn) {
     $tell .= '<a href="tel:' . $telphn . '">' . $telphn . '&nbsp</a>';
 }
 
-$rescnt .= '<div class="col-md-3 col-sm-6 col-xs-12">
-				<div class="contact-text">
+$rescnt .= '<div class="col-md-8 col-sm-6 col-xs-12" style="
+    margin-top: 20px;
+">
+<jcms:module:location-map/>
+<!--
+<div class="contact-text">
 				<h2>Corporate Office</h2>
 				<ul class="contact-info-list">
 				<li><h3><span>Address</span><br>' . ucwords($configRec->fiscal_address) . '</h3></li>
@@ -108,8 +112,10 @@ $rescnt .= '<div class="col-md-3 col-sm-6 col-xs-12">
 				<li><h3><span>Mail Us</span><br><a href="mailto:' . $emlAddress . '">' . $emlAddress . '</a></h3></li>
 				</ul>
 				</div>
-				</div>
-				<jcms:module:location-map/>
+                -->
+				
+                
+                </div>
 				
 				</div> ';
 
@@ -142,10 +148,10 @@ $jVars['module:location:footer-location'] = $footerBlock;
  */
 $resgmap = '';
 if ($configRec->location_type == 1) {
-    $resgmap .= '<div class="col-md-4 col-sm-6 col-xs-12">
-					<iframe id="map" width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=' . $configRec->location_map . '></iframe>
+    $resgmap .= '
+					<iframe id="map" width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=' . $configRec->location_map . '></iframe>
 			
-				</div>';
+				';
 } else {
     $resgmap .= '
 

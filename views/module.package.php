@@ -351,6 +351,9 @@ if (defined("PACKAGE_PAGE") and isset($_REQUEST['slug'])) {
 						<div class="restaurant-section">
 						    <div class="container">
 						' . $pkgRec->content . '
+						<div class="view-menu">
+							<a href="#">View Menu</a>
+							</div>
 						            </div>
 						        </div>';
 				}
@@ -560,14 +563,18 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 								</section>  ';
 		} elseif ($subpkgRec->type == 4) {
 			/*Hall subpackage*/
-			$resubpkgDetail .= '<section id="aboutus" class="content">
+			$resubpkgDetail .= '<section id="aboutus" class="content hall">
 							<div class="container">
 								<div class="row">
 									<div class="col-md-6 col-sm-6 ">
 										<div class="text-left single-content">
-											<h3>welcome to<br><span style="font-size: 50px;">' . $subpkgRec->title . ' </span></h3>
+											<h3>welcome to<br><span>' . $subpkgRec->title . ' </span></h3>
 											' . $subpkgRec->content . '
-										</div> 	      
+										</div> 	 
+										<div class="enquiry-hall">
+										<a href="'.BASE_URL.'contact-us">Enquiry Now</a>
+										</div>
+
 									</div>
 									<div class="padding-space"> </div>
 									<div class="col-md-6 col-sm-6 ">

@@ -18,6 +18,9 @@
     /* --blue-bg: #0aa6be24; */
     --blue-bg: #e7f6f9;
     --blue: #0aa6be;
+    --green-bg: #f7ffef;
+    --green: #7EBB55;
+    --dark-green: #457700;
 }
 
 * {
@@ -1509,7 +1512,6 @@ nav {
     /* font-family: Open Sans; */
     font-weight: 600;
     line-height: 25px;
-    /* color: #252525; */
     text-transform: capitalize;
     padding: 0 25px;
 }
@@ -2175,7 +2177,7 @@ figure.effect-sadie:hover p {
     background-repeat: no-repeat;
     background-size: container;
     width: 100%;
-    height: 500px
+    height: 92vh;
 }
 
 #header-background-amenities::before {
@@ -2343,7 +2345,8 @@ figure.effect-sadie:hover p {
 }
 
 #aminities-section {
-    padding: 15px 0;
+    padding: 8rem 0;
+    background: var(--yellow-bg)
 }
 
 #aminities-section h2 {
@@ -2356,16 +2359,13 @@ figure.effect-sadie:hover p {
     font-weight: 600;
 }
 
-#aminities-section p {
-    font-size: 18px;
-}
-
 .room-style-section {
     padding: 55px 0;
 }
 
 .contact-section {
-    padding: 55px 0;
+    padding: 9rem 0;
+    background-color: var(--yellow-bg);
 }
 
 .restaurant-section {
@@ -2381,7 +2381,6 @@ figure.effect-sadie:hover p {
     background: #f5f5f5;
     border: 1px solid #efefef;
     border-radius: 3px;
-    height: 380px
 }
 
 .contact-text-right {
@@ -2602,30 +2601,25 @@ figure.effect-sadie:hover p {
 #ContactForm button {
     background-color: var(--logo-red);
     border: 2px solid var(--logo-red);
-    border-radius: 2px;
     color: var(--white);
-    display: block;
-    font: 700 15px/1.6em "Open Sans", sans-serif;
-    margin-bottom: 22px;
-    margin-top: 20px;
-    padding: 12px 30px;
+    padding: 0.5em 2.5em;
+    border-radius: 5rem;
     transition: all 0.3s ease 0s;
-    width: 170px;
+    width: auto;
+    text-transform: capitalize;
+    margin-top: 25px;
 }
 
 .form-style input[type="button"],
 .form-style input[type="submit"] {
     background-color: var(--logo-red);
     border: 2px solid var(--logo-red);
-    border-radius: 2px;
     color: var(--white);
-    display: block;
-    font: 700 15px/1.6em "Open Sans", sans-serif;
-    margin-bottom: 22px;
-    margin-top: 20px;
-    padding: 12px 30px;
+    padding: 0.5em 1em;
+    border-radius: 5rem;
     transition: all 0.3s ease 0s;
-    width: 170px;
+    width: auto;
+    text-transform: capitalize;
 }
 
 .form-style input[type="button"]:hover,
@@ -2673,28 +2667,20 @@ figure.effect-sadie:hover p {
     width: 100%;
 }
 
-#ContactForm input {
-    border: 0;
-    border-radius: 0;
-    outline: none;
-    border-bottom: 2px solid var(--logo-red);
-    color: var(--logo-red);
-    font-size: 1.5rem;
-    padding: 1.5em 0.5em;
-    font-weight: 500;
-    background: var(--red-light-bg);
-}
-
+#ContactForm input,
 #ContactForm textarea {
     border: 0;
     border-radius: 0;
     outline: none;
-    border-bottom: 2px solid var(--logo-red);
+    border-bottom: 1px solid var(--logo-red);
     color: var(--logo-red);
     font-size: 1.5rem;
-    padding: 1.5em 0.5em;
+    padding: 1.5em 0em;
     font-weight: 500;
-    background: var(--red-light-bg);
+    /* background: var(--red-light-bg); */
+    background: rgba(0, 0, 0, 0);
+    box-shadow: none;
+    margin: 20px 0;
 }
 
 #ContactForm input::placeholder,
@@ -2738,6 +2724,7 @@ figure.effect-sadie:hover p {
     margin-bottom: 30px;
     perspective: 1000px;
     -webkit-perspective: 1000px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .service-icon {
@@ -2746,6 +2733,7 @@ figure.effect-sadie:hover p {
     padding: 20px;
     text-align: center;
     transition: all .5s ease;
+    background: #ffde8acb !important;
 }
 
 .service-content {
@@ -2759,7 +2747,7 @@ figure.effect-sadie:hover p {
     padding: 20px;
     text-align: center;
     transition: all .5s ease;
-    background-color: #252525;
+    background-color: var(--logo-yellow);
     backface-visibility: hidden;
     transform-style: preserve-3d;
     -webkit-transform: translateY(110px) rotateX(-90deg);
@@ -2780,34 +2768,36 @@ figure.effect-sadie:hover p {
 }
 
 .service-box .service-icon .front-content i {
-    font-size: 28px;
-    color: var(--white);
+    font-size: 3.5rem;
+    color: var(--logo-red);
     font-weight: normal;
+    opacity: 0.8;
 }
 
 .service-box .service-icon .front-content h3 {
-    font-size: 15px;
-    color: var(--white);
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+    color: var(--logo-red);
     text-align: center;
     margin-bottom: 15px;
+    font-weight: 600;
     text-transform: uppercase;
 }
 
 .service-box .service-content h3 {
-    font-size: 15px;
+    font-size: 2rem;
     font-weight: 600;
-    color: var(--white);
+    color: var(--logo-red);
     margin-bottom: 10px;
     text-transform: uppercase;
-    /* font-family: Open Sans; */
+    font-family: 'Poppins', sans-serif;
 }
 
 .service-box .service-content p {
-    font-size: 14px;
-    color: #f7f7f7;
+    color: var(--logo-red);
     margin: 0;
-    /* font-family: Open Sans; */
     font-weight: 400;
+    font-size: 1em;
 }
 
 .yellow {
@@ -2859,7 +2849,7 @@ figure.effect-sadie:hover p {
     backdrop-filter: blur(2px);
 }
 
-.single-testimonial-item .testimonial::before {
+/* .single-testimonial-item .testimonial::before {
     border-left: 20px solid rgba(0, 0, 0, 0.8);
     border-right: 16px solid transparent;
     border-top: 16px solid transparent;
@@ -2871,7 +2861,7 @@ figure.effect-sadie:hover p {
     transform: rotate(88deg);
     transition: all 500ms ease 0s;
     width: 15px;
-}
+} */
 
 .single-testimonial-item .testimonial p {
     /* font-size: 14px; */
@@ -2913,7 +2903,6 @@ figure.effect-sadie:hover p {
 }
 
 .single-testimonial-item .client-info .title-box h4 {
-    /* color: #252525; */
     color: #ffe2e8;
     font-size: 1.5rem;
     font-weight: 600;
@@ -2935,15 +2924,14 @@ figure.effect-sadie:hover p {
 }
 
 .single-testimonial-item:hover .testimonial {
-    border-color: var(--logo-red);
-    background: var(--logo-red);
+    background: #0aa6be70;
     transition: all 500ms ease 0s;
 }
 
-.single-testimonial-item:hover .testimonial::before {
+/* .single-testimonial-item:hover .testimonial::before {
     border-left-color: var(--logo-red);
     transition: all 500ms ease 0s;
-}
+} */
 
 /*.testmon .owl-theme .owl-controls{position: absolute;height:50px;width:100%;top:35%;left:auto;}
 .testmon .owl-theme .owl-controls .owl-prev{position: absolute;left:-50px;}
@@ -3635,11 +3623,11 @@ label.error {
 }
 
 .theme-btn {
-    border: 2px solid var(--logo-red);
+    border: 1px solid var(--logo-red);
     background: var(--white);
     padding: 5px 20px;
     color: var(--logo-red);
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .theme-btn:focus {
@@ -3740,8 +3728,8 @@ label.error {
     width: 100%;
     height: 100%;
     /* background-color: #ffd5deb3; */
-    background-color: var(--black);
-    opacity: 0.65;
+    /* background-color: var(--black); */
+    background-color: #0137408c;
     z-index: -1;
 }
 
@@ -4345,7 +4333,9 @@ label.error {
 
     #discover.content,
     .room-section,
-    .blog-section {
+    .blog-section,
+    #aminities-section,
+    .contact-section {
         padding: 6rem 0;
     }
 
@@ -4448,12 +4438,118 @@ label.error {
     margin: 20px 0;
 }
 
+
+.contact-section #ContactForm {
+    max-width: 100% !important;
+}
+
+.contact-section>.container>h4 {
+    font-size: 2.75rem;
+    /* max-width: 500px; */
+    color: var(--logo-red);
+    line-height: 1.35;
+    margin-bottom: 25px;
+    max-width: 80%;
+}
+
+#aboutus.hall {
+    background: var(--blue-bg);
+    padding-bottom: 8rem;
+}
+
+#aboutus.hall .row>.col-md-3 {
+    padding-inline-start: 0;
+}
+
+#aboutus.hall .services-v2 {
+    padding: 15px 30px;
+}
+
+#aboutus.hall .services-v2:hover {
+    background-color: var(--blue);
+    border: 1px solid var(--blue);
+}
+
+#aboutus.hall .single-content h3 {
+    color: var(--blue);
+}
+
+#aboutus.hall .single-content h3>span {
+    font-family: Domine, serif;
+    font-size: 4rem;
+    color: var(--blue);
+}
+
+#aboutus.hall .room-section {
+    margin-top: 100px;
+    padding: 0;
+    background: none;
+}
+
+
+#aboutus.hall .owl-carousel .owl-nav button {
+    background: var(--blue);
+    color: var(--blue);
+}
+
+/* .breadcrumb-botton-area * { 
+    line-height: 1;
+} */
+.breadcrumb-botton-area .right {
+    margin-top: 5px;
+}
+
+.enquiry-hall {
+    margin-top: 35px;
+}
+
+.view-menu a,
+.enquiry-hall a {
+    text-decoration: none;
+    background: var(--blue);
+    color: var(--white);
+    padding: 0.5em 1.5em;
+    border-radius: 5rem;
+    font-weight: 500;
+    font-size: 1em;
+    transition: all 0.3s ease;
+}
+
+.view-menu a:hover,
+.enquiry-hall a:hover {
+    background: var(--blue-bg);
+    color: var(--blue);
+    outline: 1px solid var(--blue);
+
+}
+
+.restaurant-section .section_title h3 {
+    color: var(--blue) !important;
+}
+
+.single-testimonial-item .testimonial p::-webkit-scrollbar-thumb {
+    background: var(--blue);
+    width: 0.15em;
+}
+
+.testmon.owl-carousel .owl-nav button {
+    background: rgba(0, 0, 0, 0)!important;
+    color: var(--blue)!important;
+    border: 1px solid var(--blue-bg)!important;
+}
+
+.testmon div {
+    padding-inline: 0;
+}
+
+
 @media screen and (max-width: 768px) {
 
     #header-background-room,
     #header-background-contact,
     #header-background-about,
-    #header-background-amenities {
+    #header-background-amenities,
+    #header-background-gallery {
         height: 400px;
     }
 
@@ -4479,6 +4575,11 @@ label.error {
     }
 
     #ContactForm {
+        max-width: 100%;
+    }
+
+    .contact-section>.container>h4 {
+        font-size: 1.75rem;
         max-width: 100%;
     }
 
