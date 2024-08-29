@@ -38,7 +38,7 @@
  <section class="row final-breadcrumb">
  	<div class="container">
  		<ol class="breadcrumb">
- 			<li><a href="index.html">Home</a></li>
+ 			<li><a href="'' index.html">Home</a></li>
  			<li class="active">Contact us</li>
  		</ol>
  	</div>

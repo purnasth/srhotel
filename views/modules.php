@@ -6,7 +6,7 @@ $siteRegulars 				= Config::find_by_id(1);
 $jVars['site:copyright']	= '<div class="pull-left fo-txt"> '.str_replace('{year}',date('Y'),$siteRegulars->copyright).'</div>
 
                                <div class="pull-right fo-txt">
-								 <p>Developed by: <a href="http://longtail.info/n/" target="_blank">Longtail e-media</a></p>
+								 <p>Website by: <a href="http://longtail.info/" target="_blank">Longtail e-media</a></p>
 								 </div>';
 
 $jVars['site:fevicon']		=  '<link rel="shortcut icon" href="'.IMAGE_PATH.'preference/'.$siteRegulars->icon_upload.'"> 

@@ -38,7 +38,7 @@ if(!empty($socialRec)) {
 
     $socialfooter.='<ul class="social23">';
         foreach($socialRec as $socialRow) {  
-                $socialfooter.=' <li><a href="'.$socialRow->linksrc.'"><i class="fa '.$socialRow->image.'"></i></a></li>';
+                $socialfooter.=' <li><a href="'.$socialRow->linksrc.'" target="_blank"><i class="fa '.$socialRow->image.'"></i></a></li>';
             }
                  $socialfooter.='</ul>
                  

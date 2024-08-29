@@ -62,7 +62,8 @@ $contbanner.='
                     <div class="page-title text-right">
                                             
                     <h1 class="margin-auto">Contact Us</h1>
-                    <p>Contact us to find our offers</p>
+                    <p>Reach out to us anytime - We are Open 24/7</p> 
+                 <!--    <p>We are open 24/7</p> -->
                        
                     </div>
                 </div>
@@ -75,7 +76,7 @@ $contbanner.='
     <div class="container">
         <div class="left pull-left">
         <ul>
-        <li><a href="index.html">Home</a></li>
+          <li><a href="'. BASE_URL.'home">Home</a></li>
         <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
         <li>Contact Us</li>
         </ul>

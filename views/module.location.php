@@ -128,7 +128,7 @@ $footerBlock .= '
     <ul class="footer-ul">
         <li class="fleft location_address">
             <i class="fa fa-map-marker"></i>
-                ' . $configRec->fiscal_address . '
+              <a href="https://maps.app.goo.gl/zLVA2TWW4SqhTvTe8" target="_blank">  ' . $configRec->fiscal_address . ' </a>
         </li>
         <li class="fleft contact_no">
             <i class="fa fa-phone"></i>

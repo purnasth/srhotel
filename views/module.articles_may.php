@@ -65,7 +65,7 @@ if(defined('INNER_PAGE') and isset($_REQUEST['slug'])) {
 			    <div class="container">
 			        <div class="left pull-left">
 			            <ul>
-			                <li><a href="index.html">Home</a></li>
+			                     <li><a href="'. BASE_URL.'home">Home</a></li>
 			                <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
 			                <li>'.$recRow->title.'</li>
 			            </ul>

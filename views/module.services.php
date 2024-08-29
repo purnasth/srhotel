@@ -36,8 +36,8 @@ $sercontbanner.='<div class="intro inner-intro">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="page-title text-right">
-                                    <h1 class="margin-auto">Hotel Amenities</h1>
-                                    <p>Enjoy With Our Amenities</p>
+                                    <h1 class="margin-auto">Hotel Facilities</h1>
+                                    <p>Exceptionally Friendly & Plentiful</p>
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@ $sercontbanner.='<div class="intro inner-intro">
             <div class="container">
             <div class="left pull-left">
             <ul>
-            <li><a href="index.html">Home</a></li>
+                  <li><a href="'. BASE_URL.'home">Home</a></li>
             <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
             <li>Amenities</li>
             </ul>

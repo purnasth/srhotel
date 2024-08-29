@@ -1310,7 +1310,7 @@ nav {
 
 .room-image {
     width: 100%;
-    height: 85vh;
+    height: 75vh;
     overflow: hidden;
 }
 
@@ -2105,10 +2105,14 @@ figure.effect-sadie:hover p {
     height: 92vh;
 }
 
+#header-background-contact {
+    background: url('../../images/banner/contact.jpg') no-repeat scroll center center/cover;
+}
+
 
 
 #header-background-about {
-    background: url('../../images/galleryA.jpg') no-repeat scroll bottom center/cover;
+    background: url('../../assets/img/hotel/1.jpg') no-repeat scroll bottom center/cover;
 }
 
 #header-background-restaurant::before {
@@ -2150,7 +2154,7 @@ figure.effect-sadie:hover p {
     background-repeat: no-repeat;
     background-size: container;
     width: 100%;
-    height: 100vh;
+    height: 92vh;
 }
 
 @media screen and (max-width: 768px) {
@@ -2940,7 +2944,8 @@ figure.effect-sadie:hover p {
 .services-v2 {
     background-color: var(--white);
     margin-bottom: 30px;
-    padding: 50px 40px;
+    padding: 40px 50px;
+    /* padding: 40px 15px; */
     transition: all 500ms ease 0s;
     border: 2px solid #eee;
     text-align: center;
@@ -2963,7 +2968,7 @@ figure.effect-sadie:hover p {
     text-align: center;
     color: #6b6b6b;
     font-weight: 400;
-    font-size: 0.8em;
+    /* font-size: 0.8em; */
     transition: all 500ms ease 0s;
     --webkit-line-clamp: 1;
     display: -webkit-box;
@@ -3393,6 +3398,7 @@ footer {
     float: left;
     font-size: 2.5rem;
     transition: all 0.3s ease-in-out-in-out;
+    padding-left: 0;
 }
 
 .widget.get-in-touch ul li:hover i {
@@ -4065,12 +4071,14 @@ label.error {
 
 
 .room-section .owl-stage-outer {
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .room-description-clamp {
+    text-align: justify;
+    max-width: 40%;
     display: -webkit-box;
-    -webkit-line-clamp: 1;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
     margin-bottom: 20px;
@@ -4429,12 +4437,12 @@ label.error {
 }
 
 .room-fac-wrapper .facilities-title {
-    font-size: 0.8em;
+    font-size: 0.7em;
     font-weight: 600;
 }
 
 #ContactForm {
-    max-width: 50%;
+    max-width: 60%;
     margin: 20px 0;
 }
 
@@ -4533,13 +4541,21 @@ label.error {
 }
 
 .testmon.owl-carousel .owl-nav button {
-    background: rgba(0, 0, 0, 0)!important;
-    color: var(--blue)!important;
-    border: 1px solid var(--blue-bg)!important;
+    background: rgba(0, 0, 0, 0) !important;
+    color: var(--blue) !important;
+    border: 1px solid var(--blue-bg) !important;
 }
 
 .testmon div {
     padding-inline: 0;
+}
+
+.room-carousel .owl-nav {
+    margin-top: 40px;
+}
+
+.room-fac-wrapper>.row>div {
+    margin-bottom: 40px;
 }
 
 
@@ -4549,7 +4565,8 @@ label.error {
     #header-background-contact,
     #header-background-about,
     #header-background-amenities,
-    #header-background-gallery {
+    #header-background-gallery,
+    #header-background-hall {
         height: 400px;
     }
 
