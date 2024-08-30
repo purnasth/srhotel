@@ -740,15 +740,16 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 			            </div>
 			        </div> 
 			    </div>';
-			$simlist = Subpackage::getPackage_limit($subpkgRec->type, 4);
+			$simlist = Subpackage::get_relatedsub_by($subpkgRec->type,$subpkgRec->id, 3);
+			// pr($simlist);
 			foreach ($simlist as $simitem) {
-				if ($subpkgRec->title != $simitem->title) {
+				if (!empty($simlist)) {
 					$relImg = $simitem->image;
 					if ($relImg != "a:0:{}") {
 						$relimageList = @unserialize($relImg);
 						if (!empty($relimageList[0])) {
 							$simroom .= '<div class="nospace container">
-											<div class="col-md-4 col-sm-4 col-xs-6">
+											<div class="col-md-4 col-sm-4 col-xs-12">
 												<!-- start news-->
 												<div class="grid-hotel">
 												<figure class="effect-sadie">
@@ -760,7 +761,8 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 												</figure>
 												</div>
 												 <!-- end news -->
-												</div>';
+												</div>
+											';
 						}
 					}
 				}

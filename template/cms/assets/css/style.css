@@ -2075,7 +2075,7 @@ figure.effect-sadie:hover p {
 #header-background-room {
     position: relative;
     background: url('../../images/inner-header1.jpg') no-repeat scroll bottom center/cover;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4568,9 +4568,18 @@ label.error {
     filter: brightness(0) saturate(100%) invert(6%) sepia(7%) saturate(117%) hue-rotate(314deg) brightness(104%) contrast(86%);
 }
 
+#header-background-room.subpackage-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 92vh;
+}
+
 @media screen and (max-width: 768px) {
 
     #header-background-room,
+    #header-background-room.subpackage-image,
     #header-background-contact,
     #header-background-about,
     #header-background-amenities,
@@ -4607,6 +4616,15 @@ label.error {
     .contact-section>.container>h4 {
         font-size: 1.75rem;
         max-width: 100%;
+    }
+
+    .nospace.container {
+        padding: 0;
+        margin: 0;
+    }
+
+    .grid-hotel figure {
+        margin: 0 1.05em;
     }
 
 }

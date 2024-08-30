@@ -59,6 +59,14 @@ class Subpackage extends DatabaseObject {
 		return self::find_by_sql($sql);
 	}
 
+	public static function get_relatedsub_by($type=0, $sid='', $limit=''){
+		global $db;
+		$cond = !empty($sid)?' AND id<> '.$sid:'';
+		$cond2 = !empty($limit)?' LIMIT '.$limit:'';
+		$sql = "SELECT * FROM ".self::$table_name." WHERE type=$type AND status=1 $cond ORDER BY sortorder DESC $cond2 ";
+		return self::find_by_sql($sql);
+	}
+	
 	public static function getTotalSub($type=''){
 		global $db;
 		$cond = !empty($type)?' AND type='.$type:'';

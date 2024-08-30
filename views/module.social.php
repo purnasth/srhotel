@@ -72,7 +72,7 @@ $jVars['module:socilaLinkbtm'] = $ressl;
 if(!empty($siteRegulars->whatsapp_a)){
 $whatsapp='
 <div class="messenger">
-<a href="'.$siteRegulars->whatsapp_a.'" target="_blank"><img src="'.BASE_URL.'template/cms/images/whatsapp.png"></a>
+<a href="https://wa.me/'.$siteRegulars->whatsapp_a.'" target="_blank"><img src="'.BASE_URL.'template/cms/images/whatsapp.png"></a>
 </div>';
 }
 else{
