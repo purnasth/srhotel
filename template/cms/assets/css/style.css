@@ -4558,6 +4558,15 @@ label.error {
     margin-bottom: 40px;
 }
 
+.breadcrumb-botton-area .right a i {
+    font-size: 0.95rem !important;
+}
+
+.room-amen-icons {
+    /* filter: brightness(0) saturate(100%) invert(0%) sepia(0%) saturate(7493%) hue-rotate(273deg) brightness(99%) contrast(94%); */
+    /* filter: brightness(0) saturate(100%) invert(11%) sepia(38%) saturate(4919%) hue-rotate(335deg) brightness(102%) contrast(96%); */
+    filter: brightness(0) saturate(100%) invert(6%) sepia(7%) saturate(117%) hue-rotate(314deg) brightness(104%) contrast(86%);
+}
 
 @media screen and (max-width: 768px) {
 

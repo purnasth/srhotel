@@ -78,9 +78,11 @@ if(defined('INNER_PAGE') and isset($_REQUEST['slug'])) {
 			                <li>'.$recRow->title.'</li>
 			            </ul>
 			        </div>
-			        <div class="right pull-right">
-			            <a class="a2a_dd" href="https://www.addtoany.com/share"><i class="fa fa-share-alt" aria-hidden="true"></i> Share</a>
-			        </div> 
+					<div class="right pull-right">
+						<!-- <a class="a2a_dd" href="https://www.addtoany.com/share"><i class="fa fa-share-alt" aria-hidden="true"></i> Share</a> -->
+					   
+						<a href="tel:+977-9864442530"><i class="fa fa-phone"></i>+977 9864442530</a>
+					</div>
 			    </div>
 			</section>';
 	}

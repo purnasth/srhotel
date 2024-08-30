@@ -477,9 +477,11 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 									<li>' . $subpkgRec->title . '</li>
 									</ul>
 									</div>
-									<div class="right pull-right">
-									<a class="a2a_dd" href="https://www.addtoany.com/share"><i class="fa fa-share-alt" aria-hidden="true"></i> Share</a>
-								</div>  
+									 <div class="right pull-right">
+            <!-- <a class="a2a_dd" href="https://www.addtoany.com/share"><i class="fa fa-share-alt" aria-hidden="true"></i> Share</a> -->
+           
+            <a href="tel:+977-9864442530"><i class="fa fa-phone"></i>+977 9864442530</a>
+        </div>
 							</div>
 						</section>';
 
@@ -501,7 +503,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 								$faclist .= '
 								<div class="col-lg-2 col-sm-3 col-xs-6 center">
 								<span>
-								<img  class="icons" src="' . IMAGE_PATH . 'features/' . $icoRec->image . '" 
+								<img  class="icons room-amen-icons" src="' . IMAGE_PATH . 'features/' . $icoRec->image . '" 
 									alt="' . $icoRec->title . '" height="60px"/>
 								</span>
 								<br> <span class="center facilities-title">' . $icoRec->title . '</span>

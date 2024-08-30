@@ -13,11 +13,11 @@ if($booking_type==1) {
         <div class="form-group">
             <div class="col-sm-3">
                 <p>Check-in</p>
-                <input name="check_in" type="text" id="checkin" class="form-control" placeholder="Check In" value="'.$chk_in.'"/>
+                <input name="check_in" type="date" id="checkin" class="form-control" placeholder="Check In" value="'.$chk_in.'"/>
             </div>
             <div class="col-sm-3">
                 <p>Check-out</p>
-                <input name="check_out" type="text" id="checkout" class="form-control" placeholder="Check Out" value="'.$chk_out.'"/>
+                <input name="check_out" type="date" id="checkout" class="form-control" placeholder="Check Out" value="'.$chk_out.'"/>
             </div>
         </div>
         <button id="btn-book" class="anima-button circle-button btn-sm btn" style="top: 34px;"><i class="fa fa-check"></i>Reservation</button>
@@ -33,11 +33,11 @@ if($booking_type==2) {
         <div class="row">
             <div class="form-group  col-md-4">
             <p>Check-in</p>
-                <input type="text" class="form-control" name="hotel_check_in" id="checkin" placeholder="Check In" readonly="readonly" value="'.$chk_in.'">
+                <input type="date" class="form-control" name="hotel_check_in" id="checkin" placeholder="Check In" readonly="readonly" value="'.$chk_in.'">
             </div>
             <div class="form-group col-md-4">
             <p>Check-out</p>
-                <input type="text" class="form-control" name="hotel_check_out" id="checkout" placeholder="Check Out" readonly="readonly" value="'.$chk_out.'">
+                <input type="date" class="form-control" name="hotel_check_out" id="checkout" placeholder="Check Out" readonly="readonly" value="'.$chk_out.'">
             </div>
 
             <div class="ser-in-box col-md-4">
@@ -51,11 +51,11 @@ if($booking_type==2) {
         <input type="hidden" name="hotel_code" value="'.$booking_code.'">
         <div class="col-md-12">
             <b>Check In</b>
-            <input type="text" class="form-control" name="hotel_check_in" id="checkin" placeholder="Check In" value="'.$chk_in.'">
+            <input type="date" class="form-control" name="hotel_check_in" id="checkin" placeholder="Check In" value="'.$chk_in.'">
         </div>
         <div class="col-md-12">
             <b>Check Out</b>
-            <input type="text" class="form-control" name="hotel_check_out" id="checkout" placeholder="Check Out"  value="'.$chk_out.'">
+            <input type="date" class="form-control" name="hotel_check_out" id="checkout" placeholder="Check Out"  value="'.$chk_out.'">
         </div>
         <div class="col-md-12">
             <div class="chk-button">
